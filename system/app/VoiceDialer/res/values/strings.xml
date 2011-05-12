@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="voiceDialer">Discador de Voz</string>
+    <string name="tool_tip_title">Você sabia…</string>
+    <string name="tool_tip_message">Pressionando &amp; segurando o botão verde de Chamar executa o discador de voz.</string>
+    <string name="examples">\u0020Exemplos: <b> \n\"Call John Doe\" \n\"Call John Doe at home, …\" \n\"Call voicemail\" \n\"Dial (866) 555 0123\" \n\"Dial 911, 811, …\" \n\"Dial +44 7333 444 555\" \n\"Redial\" \n\"Open Calendar\" </b>\u0020</string>
+    <string name="title">Discador de Voz</string>
+    <string name="bluetooth_title">Discador de voz Bluetooth</string>
+    <string name="initializing">Iniciando.</string>
+    <string name="listening">Ouvindo…</string>
+    <string name="please_try_again">Tente denovo.</string>
+    <string name="failure">Falhou</string>
+    <string name="recognition_error">Você pode tentar reiniciar o aparelho.</string>
+    <string name="headset_connection_lost">Conexão perdida com o fone de ouvido.</string>
+    <string name="at_home">\u0020at casa</string>
+    <string name="on_mobile">\u0020on celular</string>
+    <string name="at_work">\u0020at trabalho</string>
+    <string name="at_other">\u0020at outro</string>
+    <string name="logging_enabled">Registro de discador de voz está ativado.</string>
+    <string name="logging_disabled">Registro de discador de voz está desativado.</string>
+    <string name="speak_now_tts">Fale agora.</string>
+    <string name="no_results_tts">Sem resultados, tente de novo.</string>
+    <string name="invalid_choice_tts">Escolha inválida.</string>
+    <string name="goodbye_tts">Tchau.</string>
+</resources>

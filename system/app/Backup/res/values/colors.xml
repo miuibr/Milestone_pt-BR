@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="backup_progress_color">#ff4d79bb</color>
+    <color name="backup_progress_bg">#ffe8e8e8</color>
+</resources>

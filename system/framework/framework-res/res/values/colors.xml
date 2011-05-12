@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="darker_gray">#ffaaaaaa</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_dark">#ff000000</color>
+    <color name="background_light">#ffffffff</color>
+    <color name="safe_mode_text">#80ffffff</color>
+    <color name="bright_foreground_dark">#ffffffff</color>
+    <color name="bright_foreground_dark_disabled">#80ffffff</color>
+    <color name="bright_foreground_dark_inverse">#ff000000</color>
+    <color name="dim_foreground_dark">#ffbebebe</color>
+    <color name="dim_foreground_dark_disabled">#80bebebe</color>
+    <color name="dim_foreground_dark_inverse">#ff323232</color>
+    <color name="dim_foreground_dark_inverse_disabled">#80323232</color>
+    <color name="hint_foreground_dark">#ff808080</color>
+    <color name="bright_foreground_light">#ff000000</color>
+    <color name="bright_foreground_light_inverse">#ffffffff</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+    <color name="dim_foreground_light">#ff323232</color>
+    <color name="dim_foreground_light_disabled">#80323232</color>
+    <color name="dim_foreground_light_inverse">#ffbebebe</color>
+    <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
+    <color name="hint_foreground_light">#ff808080</color>
+    <color name="lighter_gray">#ffdddddd</color>
+    <color name="perms_dangerous_grp_color">#ffdd6826</color>
+    <color name="perms_dangerous_perm_color">#ffdd6826</color>
+    <color name="shadow">#cc222222</color>
+    <color name="search_url_text_normal">#ff7fa87f</color>
+    <item type="color" name="search_url_text_selected">@color/black</item>
+    <item type="color" name="search_url_text_pressed">@color/black</item>
+    <item type="color" name="search_widget_corpus_item_background">@color/lighter_gray</item>
+    <item type="color" name="sliding_tab_text_color_active">@color/black</item>
+    <item type="color" name="sliding_tab_text_color_shadow">@color/black</item>
+    <color name="keyguard_text_color_normal">#ffffffff</color>
+    <color name="keyguard_text_color_unlock">#ffa7d84c</color>
+    <color name="keyguard_text_color_soundoff">#ffffffff</color>
+    <color name="keyguard_text_color_soundon">#ffe69310</color>
+    <color name="keyguard_text_color_decline">#fffe0a5a</color>
+    <color name="mi_screen_background_light">#fff7f7f7</color>
+    <color name="mi_screen_background_dark">#fff7f7f7</color>
+    <color name="mi_screen_background_dark_transparent">#80f7f7f7</color>
+    <color name="mi_screen_background_light_transparent">#80f7f7f7</color>
+    <color name="mi_background_dark">#fff7f7f7</color>
+    <color name="mi_background_light">#fff7f7f7</color>
+    <color name="mi_bright_foreground_dark">#cc000000</color>
+    <color name="mi_bright_foreground_dark_inverse">#ffffffff</color>
+    <color name="mi_bright_foreground_dark_disabled">#80000000</color>
+    <color name="mi_dim_foreground_dark">#66000000</color>
+    <color name="mi_dim_foreground_dark_disabled">#80000000</color>
+    <color name="mi_dim_foreground_dark_inverse">#ffffffff</color>
+    <color name="mi_dim_foreground_dark_inverse_disabled">#80ffffff</color>
+    <color name="mi_bright_foreground_light">#cc000000</color>
+    <color name="mi_bright_foreground_light_inverse">#ffffffff</color>
+    <color name="mi_bright_foreground_light_disabled">#80000000</color>
+    <color name="mi_dim_foreground_light">#66000000</color>
+    <color name="mi_dim_foreground_light_disabled">#80000000</color>
+    <color name="mi_dim_foreground_light_inverse">#ffffffff</color>
+    <color name="mi_dim_foreground_light_inverse_disabled">#80ffffff</color>
+    <color name="mi_options_menu_text_normal">#cc000000</color>
+    <color name="mi_options_menu_text_inverse">#ffffffff</color>
+    <color name="mi_options_menu_text_disabled">#80000000</color>
+    <color name="mi_preference_primary">#cc000000</color>
+    <color name="mi_preference_primary_inverse">#ffffffff</color>
+    <color name="mi_preference_primary_disabled">#80000000</color>
+    <color name="mi_preference_secondary">#66000000</color>
+    <color name="mi_preference_secondary_disabled">#80000000</color>
+    <color name="mi_preference_secondary_inverse">#ffffffff</color>
+    <color name="dlg_bright_foreground_dark">#cc000000</color>
+    <color name="dlg_bright_foreground_dark_inverse">#ffffffff</color>
+    <color name="dlg_bright_foreground_dark_disabled">#80000000</color>
+    <color name="dlg_dim_foreground_dark">#66000000</color>
+    <color name="dlg_dim_foreground_dark_disabled">#80000000</color>
+    <color name="dlg_dim_foreground_dark_inverse">#ffffffff</color>
+    <color name="dlg_dim_foreground_dark_inverse_disabled">#80ffffff</color>
+    <color name="dlg_bright_foreground_light">#cc000000</color>
+    <color name="dlg_bright_foreground_light_inverse">#ffffffff</color>
+    <color name="dlg_bright_foreground_light_disabled">#80000000</color>
+    <color name="dlg_dim_foreground_light">#66000000</color>
+    <color name="dlg_dim_foreground_light_disabled">#80000000</color>
+    <color name="dlg_dim_foreground_light_inverse">#ffffffff</color>
+    <color name="dlg_dim_foreground_light_inverse_disabled">#80ffffff</color>
+    <color name="tab_text_color">#99ffffff</color>
+    <color name="tab_text_pressed_color">#ffffffff</color>
+    <color name="button_text_color">#a6000000</color>
+    <color name="button_text_color_disabled">#53000000</color>
+    <color name="button_text_shadow">#e6ffffff</color>
+    <color name="title_text_color">#ffffffff</color>
+    <color name="info_color">#ff458500</color>
+    <color name="attention_color">#ffd77a12</color>
+    <color name="alert_color">#ffb22828</color>
+    <color name="window_background">#fff7f7f7</color>
+    <color name="scroll_overlay_image">#ffff9f2e</color>
+    <color name="expandlistview_header_text_color">#ff636772</color>
+    <color name="expandlistview_header_shadow_color">#92ffffff</color>
+    <color name="secondary_tab_text_color">#ff717980</color>
+    <color name="secondary_tab_text_pressed_color">#ffffffff</color>
+    <item type="color" name="status_bar_textColor">@color/title_text_color</item>
+    <item type="color" name="status_bar_event_title_normal">@color/mi_bright_foreground_light</item>
+    <item type="color" name="status_bar_event_title_inverse">@color/mi_bright_foreground_light_inverse</item>
+    <item type="color" name="status_bar_event_content_normal">@color/mi_dim_foreground_light</item>
+    <item type="color" name="status_bar_event_content_inverse">@color/mi_dim_foreground_light_inverse</item>
+    <color name="config_defaultNotificationColor">#ff00ff00</color>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">MIUI账户管理</string>
+    <string name="service_name">MIUI账户认证</string>
+    <string name="authenticator_label">MIUI</string>
+    <string name="logon">登录</string>
+    <string name="nickname">昵 称</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="email">邮箱</string>
+    <string name="registered_account">用户名已被抢注</string>
+    <string name="bad_username">用户名格式不对</string>
+    <string name="bad_verification">注册信息格式不对</string>
+    <string name="bad_authentication">用户名密码不匹配</string>
+    <string name="email_not_verified">Email尚未验证</string>
+    <string name="terms_not_agreed">必须同意MIUI条款</string>
+    <string name="account_deleted">账号已删除</string>
+    <string name="account_disabled">账号已被禁</string>
+    <string name="service_disabled">服务已停止</string>
+    <string name="service_unavailable">服务不可用</string>
+    <string name="network_error">网络连接错误</string>
+    <string name="unknown">未知错误</string>
+    <string name="my_account">我的MIUI账号</string>
+    <string name="must_input">必填</string>
+    <string name="login_account_suggestion">如果没有MIUI帐号，请到miui.com注册</string>
+    <string name="loging_on">正在登录</string>
+</resources>

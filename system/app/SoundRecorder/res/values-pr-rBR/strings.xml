@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Gravador de Som</string>
+    <string name="recording">Gravando</string>
+    <string name="recording_stopped">Gravação parada</string>
+    <string name="storage_is_full">Armazenamento cheio</string>
+    <string name="max_length_reached">Tamanho máximo atingido</string>
+    <string name="insert_sd_card">Por favor insira um Cartão SD</string>
+    <string name="button_ok">OK</string>
+    <string name="timer_format">%02d:%02d</string>
+    <string name="audio_db_title_format">dd-MM-yyy HH:mm:ss</string>
+    <string name="audio_db_artist_name">Suas Gravações</string>
+    <string name="audio_db_album_name">Gravações de Áudio</string>
+    <string name="audio_db_playlist_name">Minhas Gravações</string>
+    <string name="error_sdcard_access">Impossível acessar Cartão Sd</string>
+    <string name="error_app_internal">Erro interno do aplicativo</string>
+    <string name="error_mediadb_new_record">Impossível salvar áudio gravado</string>
+    <string name="default_record_name">gravação sem título</string>
+    <string name="menu_view_record_list">Visualizar gravações</string>
+    <string name="menu_setting">Configurações</string>
+    <string name="delete_dialog_title">Você deseja deletar a gravação atual?</string>
+    <string name="preferences_title">Configurações</string>
+    <string name="pref_title_record_type">Tipo de arquivo</string>
+    <string name="prefDialogTitle_recordType">Por favor selecione o tipo de arquivo</string>
+    <string name="prefDefault_recordType">audio/amr</string>
+    <string name="pref_title_enable_high_quality">Ativar alta qualidade</string>
+    <string name="pref_summary_enable_high_quality">Arquivos de alta qualidade serão maiores</string>
+    <string name="pref_title_enable_sound_effect">Ativar efeitos sonoros</string>
+    <string name="pref_summary_enable_sound_effect">Tocar som quando o estado da gravação mudar</string>
+</resources>

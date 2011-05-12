@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <dimen name="status_bar_edge_ignore">5.0dip</dimen>
+    <dimen name="close_drag_handle_shadow_height">8.399994dip</dimen>
+</resources>

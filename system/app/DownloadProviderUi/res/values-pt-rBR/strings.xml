@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">Downloads</string>
+    <string name="download_title">Downloads</string>
+    <string name="no_downloads">Nenhum download.</string>
+    <string name="missing_title">&lt;Desconhecido></string>
+    <string name="download_menu_sort_by_size">Ordenar por tamanho</string>
+    <string name="download_menu_sort_by_date">Ordenar por hora</string>
+    <string name="download_queued">Na fila</string>
+    <string name="download_running">Em andamento</string>
+    <string name="download_success">Concluído</string>
+    <string name="download_error">Falhou</string>
+    <string name="dialog_title_not_available">Falha na transferência</string>
+    <string name="dialog_failed_body">Você quer tentar baixar novamente o arquivo mais tarde ou excluí-lo da fila?</string>
+    <string name="dialog_title_queued_body">Arquivo ainda não disponível</string>
+    <string name="dialog_queued_body">Este arquivo está na fila para download no futuro.</string>
+    <string name="dialog_file_missing_body">O arquivo baixado não pode ser encontrado.</string>
+    <string name="dialog_insufficient_space_on_external">Não foi possível concluir o download. Não há espaço suficiente de armazenamento externo.</string>
+    <string name="dialog_insufficient_space_on_cache">Não foi possível concluir o download. Não há espaço suficiente de armazenamento interno.</string>
+    <string name="dialog_cannot_resume">Download interrompido. Não pode ser retomado.</string>
+    <string name="dialog_file_already_exists">Não foi possível fazer o download. O arquivo de destino já existe.</string>
+    <string name="dialog_media_not_found">Não foi possível fazer o download. Cartão SD não está disponível.</string>
+    <string name="download_no_application_title">Não foi possível abrir o arquivo</string>
+    <string name="remove_download">Remover</string>
+    <string name="delete_download">Excluir</string>
+    <string name="keep_queued_download">Manter</string>
+    <string name="cancel_running_download">Cancelar</string>
+    <string name="retry_download">Tentar novamente</string>
+    <string name="deselect_all">Limpar seleção</string>
+    <string name="pause_download_when_wifi_disconnected">Usar wi-fi</string>
+    <string name="download_when_network_connected">Usar rede móvel</string>
+    <string name="download_paused">Download pausado</string>
+</resources>

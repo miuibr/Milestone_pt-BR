@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="button_style">
+        <item name="android:textSize">40.0dip</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">1.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="digit_button_style" parent="@style/button_style">
+        <item name="android:background">@drawable/blue_button</item>
+    </style>
+    <style name="button_small_style" parent="@style/button_style">
+        <item name="android:textSize">30.0dip</item>
+    </style>
+    <style name="display_style">
+        <item name="android:textSize">40.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">right|center</item>
+        <item name="android:padding">8.0dip</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+</resources>

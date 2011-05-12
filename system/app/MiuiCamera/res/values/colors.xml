@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="recording_time_elapsed_text">#c0ffffff</color>
+    <color name="recording_time_remaining_text">#ffff0033</color>
+    <color name="blue">#ff255695</color>
+    <color name="white">#c0ffffff</color>
+    <color name="red">#ffff0000</color>
+    <color name="pre_background">#ffd2d2d2</color>
+    <color name="delay_snap_timer">#ffffffff</color>
+</resources>

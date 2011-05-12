@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="yellow">#fffff000</color>
+    <color name="gray">#ffa6a6a0</color>
+    <color name="orange">#ffff9900</color>
+    <color name="deepcolor">#fffaaa5f</color>
+    <color name="shadowcolor">#ff333333</color>
+    <color name="naming">#ffababab</color>
+    <color name="red">#ffff0000</color>
+    <color name="background">#ff272727</color>
+    <color name="orange_yellow">#ff9b9ba0</color>
+    <color name="remote_connect_text">#ffe78018</color>
+    <color name="remote_disconnect_text">#ff901821</color>
+</resources>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CheckedTextView android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/text1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:checkMark="@drawable/btn_check" android:minHeight="?listPreferredItemHeight" style="@style/TextAppearance.Widget.TextView.PopupMenu"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

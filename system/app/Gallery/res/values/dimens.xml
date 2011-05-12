@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <dimen name="title_bar_height">40.0dip</dimen>
+    <dimen name="bottom_bar_height">60.0dip</dimen>
+    <dimen name="textsize1">24.0dip</dimen>
+    <dimen name="textsize2">20.0dip</dimen>
+    <dimen name="textsize3">12.0dip</dimen>
+    <dimen name="button_text_size">16.0dip</dimen>
+    <dimen name="edit_pop_window_width">312.0dip</dimen>
+    <dimen name="edit_pop_window_width_left">200.0dip</dimen>
+    <dimen name="apply_pop_window_width">230.0dip</dimen>
+    <dimen name="apply_pop_window_width_left">104.0dip</dimen>
+    <dimen name="folder_title_max_width">190.0dip</dimen>
+</resources>

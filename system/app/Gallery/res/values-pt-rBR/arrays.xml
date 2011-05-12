@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="animation">
+        <item>Padrão</item>
+        <item>Suavizar</item>
+        <item>Girar</item>
+        <item>Página</item>
+        <item>Cascata</item>
+        <item>Rotação</item>
+        <item>Cubo 3D</item>
+        <item>Elástico</item>
+    </string-array>
+    <string-array name="animation_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>

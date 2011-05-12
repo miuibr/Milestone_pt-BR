@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <public type="string" name="app_label" id="0x7f020000" />
+    <public type="string" name="permlab_accessDrm" id="0x7f020001" />
+    <public type="string" name="permdesc_accessDrm" id="0x7f020002" />
+</resources>

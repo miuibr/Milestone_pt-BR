@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="textColorIconOverlay">#ffffffff</color>
+    <color name="textColorIconOverlayShadow">#ff000000</color>
+    <color name="quickcontact_disambig">#fff2f2f2</color>
+    <color name="translucent_search_background">#cc000000</color>
+    <color name="search_hint">#ffc4c1bd</color>
+    <color name="contact_recommand_photo_title">#ff858585</color>
+    <color name="white">#ffffffff</color>
+    <color name="call_button_text">#ffffffff</color>
+    <color name="call_button_text_shadow">#59000000</color>
+    <color name="open_dialer_button_text">#cc000000</color>
+    <color name="open_dialer_button_text_shadow">#7fffffff</color>
+    <color name="dailer_digits_text">#ffffffff</color>
+    <color name="dialer_digits_text_shadow">#59000000</color>
+    <color name="missed_call_text">#ff900000</color>
+</resources>

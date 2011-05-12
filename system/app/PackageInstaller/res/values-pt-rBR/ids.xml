@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <item type="id" name="app_snippet">false</item>
+    <item type="id" name="app_icon">false</item>
+    <item type="id" name="app_name">false</item>
+    <item type="id" name="install_confirm_question">false</item>
+    <item type="id" name="permissions_section">false</item>
+    <item type="id" name="security_settings_desc">false</item>
+    <item type="id" name="security_settings_list">false</item>
+    <item type="id" name="ok_button">false</item>
+    <item type="id" name="cancel_button">false</item>
+    <item type="id" name="install_confirm_panel">false</item>
+    <item type="id" name="center_text">false</item>
+    <item type="id" name="progress_bar">false</item>
+    <item type="id" name="buttons_panel">false</item>
+    <item type="id" name="launch_button">false</item>
+    <item type="id" name="done_button">false</item>
+    <item type="id" name="uninstall_question">false</item>
+    <item type="id" name="uninstall_confirm_text">false</item>
+    <item type="id" name="ok_panel">false</item>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen>
+    <CheckBoxPreferenceCategory android:title="@string/pref_screen_transformation_type_title" android:key="pref_screen_transformation_type"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <RadioButtonPreference android:title="@string/transformation_type_classic" android:key="pref_key_transformation_classic" android:defaultValue="true" />
+        <RadioButtonPreference android:title="@string/transformation_type_classic_no_overshoot" android:key="pref_key_transformation_classic_no_overshoot" />
+        <RadioButtonPreference android:title="@string/transformation_type_crossfade" android:key="pref_key_transformation_corss_fade" />
+        <RadioButtonPreference android:title="@string/transformation_type_falldown" android:key="pref_key_transformation_fall_down" />
+        <RadioButtonPreference android:title="@string/transformation_type_leftpage" android:key="pref_key_transformation_left_page" />
+        <RadioButtonPreference android:title="@string/transformation_type_stack" android:key="pref_key_transformation_stack" />
+        <RadioButtonPreference android:title="@string/transformation_type_rotate" android:key="pref_key_transformation_rotate" />
+        <RadioButtonPreference android:title="@string/transformation_type_cube" android:key="pref_key_transformation_cube" />
+    </CheckBoxPreferenceCategory>
+</PreferenceScreen>

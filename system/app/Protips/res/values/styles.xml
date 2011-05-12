@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="TipText">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="TipText.Header" parent="@style/TipText">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TipText.Message" parent="@style/TipText">
+        <item name="android:lineSpacingExtra">0.0sp</item>
+    </style>
+    <style name="TipText.Footer" parent="@style/TipText">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffaaaaaa</item>
+    </style>
+</resources>

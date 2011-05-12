@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">Status Bar</string>
+    <string name="status_bar_clear_all_button">Clear</string>
+    <string name="status_bar_no_notifications_title">No notifications</string>
+    <string name="status_bar_ongoing_events_title">Ongoing</string>
+    <string name="status_bar_latest_events_title">Notifications</string>
+    <string name="battery_low_title">Please connect charger</string>
+    <string name="battery_low_subtitle">The battery is getting low:</string>
+    <string name="battery_low_percent_format">%d%% or less remaining.</string>
+    <string name="battery_low_why">Battery use</string>
+    <string name="tab_notifications_lable">通知</string>
+    <string name="tab_toggles_lable">开关</string>
+    <string name="tab_apps_lable">程序</string>
+    <string name="apps_clean_title">一键清理</string>
+    <string name="apps_clean_current_memory">当前可用内存%1$s</string>
+    <string name="apps_clean_result">MIUI为您释放了 %1$s 内存。\n当前可用内存：%2$s</string>
+    <string name="status_bar_button_wifi">WIFI</string>
+    <string name="status_bar_button_apn">数据</string>
+    <string name="status_bar_button_bluetooth">蓝牙</string>
+    <string name="status_bar_button_rotate">旋转</string>
+    <string name="status_bar_button_brightness">亮度</string>
+    <string name="status_bar_button_ringer_normal">声音</string>
+    <string name="status_bar_button_ringer_vibrate">振动</string>
+    <string name="status_bar_button_ringer_mute">静音</string>
+    <string name="status_bar_button_gps">GPS</string>
+    <string name="status_bar_button_sync">同步</string>
+    <string name="status_bar_button_cpu">CPU降频</string>
+    <string name="status_bar_button_vibrate">震动</string>
+    <string name="status_bar_button_flight_mode">飞行模式</string>
+    <string name="status_bar_button_lock">锁屏</string>
+    <string name="status_bar_button_torch">手电</string>
+    <string name="status_bar_button_reboot">重启</string>
+    <string name="status_bar_button_shutdown">关机</string>
+    <string name="status_bar_time_format_12">h:mma</string>
+    <string name="status_bar_time_format_24">HH:mm</string>
+    <string name="status_bar_date_format">MMM d,</string>
+    <string name="status_bar_date_format_lock">E, MMM d</string>
+    <string name="usb_accessory_permission_prompt">Allow the application %1$s to access the USB accessory?</string>
+    <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
+    <string name="usb_accessory_confirm_prompt">Open %1$s when this USB accessory is connected?</string>
+    <string name="usb_accessory_uri_prompt">No installed applications work with this USB accessory. Learn more about this accessory at %1$s</string>
+    <string name="title_usb_accessory">USB accessory</string>
+    <string name="label_view">View</string>
+    <string name="always_use_accessory">Use by default for this USB accessory</string>
+</resources>

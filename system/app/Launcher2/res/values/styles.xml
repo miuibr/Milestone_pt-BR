@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="Theme" parent="@android:style/Theme.Wallpaper">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateHidden|adjustPan</item>
+    </style>
+    <style name="AnimationPreview">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+    <style name="FolderSettingButton">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="RightRadioButton">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">@color/list_item_primary</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:paddingRight">60.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="WorkspaceIcon">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/icon_title_text</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">bottom|center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">3.0dip</item>
+        <item name="android:paddingRight">3.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">@color/icon_title_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="WorkspaceIcon.Portrait" parent="@style/WorkspaceIcon">
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:drawablePadding">0.0dip</item>
+    </style>
+    <style name="WorkspaceIcon.Landscape" parent="@style/WorkspaceIcon">
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:layout_marginRight">10.0dip</item>
+        <item name="android:drawablePadding">0.0dip</item>
+    </style>
+    <style name="SearchButton" parent="@android:style/Widget.Button.Small">
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">9.0dip</item>
+    </style>
+    <style name="HotseatButton">
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginTop">4.5dip</item>
+        <item name="android:layout_weight">0.0</item>
+    </style>
+    <style name="MarqueeTextView">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+    </style>
+    <style name="GadgetPlayerLyricCurrentLineShadowStyle">
+        <item name="android:shadowColor">@color/lyric_shadow_color</item>
+        <item name="android:shadowDx">4.0</item>
+        <item name="android:shadowDy">4.0</item>
+        <item name="android:shadowRadius">18.0</item>
+    </style>
+</resources>

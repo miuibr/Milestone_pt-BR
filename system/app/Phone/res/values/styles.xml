@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="Incoming">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowFrame">@null</item>
+    </style>
+    <style name="IccPanel">
+        <item name="android:windowBackground">@drawable/grayBg</item>
+        <item name="android:windowFrame">@null</item>
+    </style>
+    <style name="info_label">
+        <item name="android:textAppearance">@style/TextAppearance.info_label</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="info_layout">
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="entry_layout">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="TextAppearance" parent="@android:style/TextAppearance" />
+    <style name="TextAppearance.info_label" parent="@style/TextAppearance">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="EditPhoneNumberPreference">
+        <item name="enableButtonText">@string/enable</item>
+        <item name="disableButtonText">@string/disable</item>
+        <item name="changeNumButtonText">@string/change_num</item>
+        <item name="confirmMode">activation</item>
+    </style>
+    <style name="ccOtaButtonBar">
+        <item name="android:background">@android:drawable/bottom_bar</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">60.0dip</item>
+    </style>
+    <style name="ccOtaButton">
+        <item name="android:layout_width">150.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">5.0dip</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+    </style>
+    <style name="ccOtaNextButton" parent="@style/ccOtaButton">
+        <item name="android:layout_marginRight">4.0dip</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+    <style name="ccOtaSkipButton" parent="@style/ccOtaButton">
+        <item name="android:layout_marginLeft">4.0dip</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+    <style name="ccOtaWizardTitle">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">@color/ota_title_color</item>
+    </style>
+    <style name="ccOtaTextPrimary">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="TextStyle" />
+    <style name="TextStyle.Name" parent="@style/TextStyle">
+        <item name="android:textSize">33.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:shadowColor">#8c000000</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">-2.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="TextStyle.Name.Secondary" parent="@style/TextStyle.Name">
+        <item name="android:textSize">20.0sp</item>
+    </style>
+    <style name="TextStyle.Info" parent="@style/TextStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#7fffffff</item>
+        <item name="android:shadowColor">#8c000000</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">-1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="TextStyle.PhoneNumber" parent="@style/TextStyle.Info" />
+    <style name="TextStyle.Telocation" parent="@style/TextStyle.Info" />
+    <style name="TextStyle.ExtraInfo" parent="@style/TextStyle.Info" />
+    <style name="TextStyle.ElapsedTime" parent="@style/TextStyle.Info" />
+    <style name="TextStyle.SlidingTarget" parent="@style/TextStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextStyle.SlidingBar" parent="@style/TextStyle">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:shadowColor">#59000000</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">-1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="TextStyle.Button" parent="@style/TextStyle">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">#cc000000</item>
+        <item name="android:shadowColor">#7fffffff</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="TextStyle.RedButton" parent="@style/TextStyle.Button">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:shadowColor">#59000000</item>
+        <item name="android:shadowDy">-1.0</item>
+    </style>
+    <style name="TextStyle.InCallControlButton" parent="@style/TextStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:shadowColor">#8c000000</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">-1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="TextStyle.InCallControlButton.Disabled" parent="@style/TextStyle.InCallControlButton">
+        <item name="android:textColor">#80ffffff</item>
+    </style>
+    <style name="TextStyle.InCallControlButton.Checked" parent="@style/TextStyle.InCallControlButton">
+        <item name="android:shadowColor">#ffff9600</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">0.0</item>
+        <item name="android:shadowRadius">5.0</item>
+    </style>
+</resources>

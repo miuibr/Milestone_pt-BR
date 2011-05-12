@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <item type="id" name="date_ordered_list">false</item>
+    <item type="id" name="size_ordered_list">false</item>
+    <item type="id" name="empty">false</item>
+    <item type="id" name="selection_menu">false</item>
+    <item type="id" name="selection_delete">false</item>
+    <item type="id" name="deselect_all">false</item>
+    <item type="id" name="download_checkbox">false</item>
+    <item type="id" name="download_icon">false</item>
+    <item type="id" name="download_title">false</item>
+    <item type="id" name="download_progress">false</item>
+    <item type="id" name="last_modified_date">false</item>
+    <item type="id" name="status_text">false</item>
+    <item type="id" name="size_text">false</item>
+    <item type="id" name="download_menu_sort_by_size">false</item>
+    <item type="id" name="download_menu_sort_by_date">false</item>
+    <item type="id" name="download_menu_pause_download_when_wifi_disconnected">false</item>
+    <item type="id" name="download_menu_download_when_network_connected">false</item>
+</resources>

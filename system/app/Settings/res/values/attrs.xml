@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <attr name="state_encrypted" format="boolean" />
+    <attr name="icon" format="reference" />
+    <attr name="leftIcon" format="reference" />
+    <attr name="rightIcon" format="reference" />
+    <attr name="icons" format="reference" />
+    <attr name="autoDismiss" format="boolean" />
+</resources>

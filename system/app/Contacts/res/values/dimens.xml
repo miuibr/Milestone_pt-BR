@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <dimen name="quickcontact_shadow_horiz">15.0dip</dimen>
+    <dimen name="quickcontact_shadow_vert">10.0dip</dimen>
+    <dimen name="quickcontact_shadow_touch">20.0dip</dimen>
+    <dimen name="tab_height">80.0px</dimen>
+    <dimen name="contact_shortcut_frame_width">50.0dip</dimen>
+    <dimen name="contact_shortcut_frame_height">56.0dip</dimen>
+    <dimen name="group_list_item_height">85.0px</dimen>
+    <dimen name="recipient_list_item_height1">85.0px</dimen>
+    <dimen name="recipient_list_item_height2">70.0px</dimen>
+    <dimen name="group_list_item_left_margin">30.0dip</dimen>
+    <dimen name="recipient_list_item_left_margin">10.0dip</dimen>
+    <dimen name="list_item_height">85.0px</dimen>
+    <dimen name="list_item_padding_top">0.0dip</dimen>
+    <dimen name="list_item_padding_right">12.0dip</dimen>
+    <dimen name="list_item_padding_bottom">0.0dip</dimen>
+    <dimen name="list_item_padding_left">10.0px</dimen>
+    <dimen name="last_list_item_padding">0.0dip</dimen>
+    <dimen name="list_item_gap_between_image_and_text">8.0dip</dimen>
+    <dimen name="list_item_gap_between_label_and_data">5.0dip</dimen>
+    <dimen name="list_item_call_button_padding">14.0dip</dimen>
+    <dimen name="list_item_presence_icon_margin">5.0dip</dimen>
+    <dimen name="list_item_header_text_width">106.0dip</dimen>
+    <dimen name="list_item_header_text_padding">6.0dip</dimen>
+    <dimen name="list_item_header_height">28.0px</dimen>
+    <dimen name="list_item_photo_width">65.0px</dimen>
+    <dimen name="list_item_photo_height">65.0px</dimen>
+    <dimen name="list_item_call_type_image_width">25.0px</dimen>
+    <dimen name="alphabet_scroller_padding_top">34.0dip</dimen>
+    <dimen name="alphabet_scroller_overlay_size">86.0dip</dimen>
+    <dimen name="alphabet_scroller_width">32.0dip</dimen>
+</resources>

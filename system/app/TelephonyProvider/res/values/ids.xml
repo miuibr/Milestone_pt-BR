@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <item type="id" name="title">false</item>
+    <item type="id" name="numbers">false</item>
+    <item type="id" name="add">false</item>
+    <item type="id" name="cancel">false</item>
+    <item type="id" name="root">false</item>
+    <item type="id" name="number">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="firewall_log">false</item>
+    <item type="id" name="image_next">false</item>
+    <item type="id" name="ms_location">false</item>
+    <item type="id" name="ms_date">false</item>
+    <item type="id" name="ms_body">false</item>
+    <item type="id" name="call_date">false</item>
+    <item type="id" name="call_duration">false</item>
+    <item type="id" name="call_location">false</item>
+    <item type="id" name="call_log">false</item>
+    <item type="id" name="ms_log">false</item>
+    <item type="id" name="emptyText">false</item>
+    <item type="id" name="list_header">false</item>
+    <item type="id" name="main_header">false</item>
+    <item type="id" name="sub_header">false</item>
+    <item type="id" name="header_action">false</item>
+    <item type="id" name="phone_number">false</item>
+    <item type="id" name="add_number_btn">false</item>
+    <item type="id" name="enable">false</item>
+</resources>

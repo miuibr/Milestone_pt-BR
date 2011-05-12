@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <dimen name="result_item_height">55.0dip</dimen>
+    <dimen name="result_item_left_padding">5.5dip</dimen>
+    <dimen name="result_item_icon1_size">40.0dip</dimen>
+    <dimen name="result_list_header_height">22.0dip</dimen>
+    <dimen name="result_list_pinned_size">50.0dip</dimen>
+    <dimen name="recent_apps_icon_size">58.0dip</dimen>
+</resources>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-D</item>
+        <item>;-)</item>
+        <item>;-l</item>
+        <item>:-B</item>
+        <item>;\'(</item>
+        <item>\@=</item>
+        <item>:-(</item>
+        <item>;-(</item>
+        <item>∠※</item>
+        <item>:-x</item>
+        <item>:-></item>
+        <item>B-)</item>
+        <item>*^‧^*</item>
+        <item>○^~^○</item>
+        <item>:-P</item>
+        <item>:-)</item>
+        <item>:-*</item>
+        <item>;-%</item>
+        <item>:-)</item>
+        <item>:-!</item>
+        <item>:-{</item>
+        <item>:-O</item>
+        <item>:-?</item>
+        <item>:-[</item>
+        <item>\'-|</item>
+        <item>:-1</item>
+        <item>:-2</item>
+        <item>:-z</item>
+        <item>:ok:</item>
+        <item>:pc:</item>
+        <item>:gl:</item>
+        <item>O_O</item>
+    </string-array>
+    <string-array name="extend_smiley_texts">
+        <item>::>_&amp;amp;amp;lt;::</item>
+        <item>&amp;amp;amp;lt;_>¦¦¦</item>
+        <item>~~~^_^~~~</item>
+        <item>~~~(>_&amp;amp;amp;lt;)~~~</item>
+        <item>╮〔╯ε╰〕╭</item>
+        <item>^_^/~~</item>
+        <item>o∩_∩o</item>
+        <item>°ο°/~</item>
+        <item>^_^)Y</item>
+        <item>-ิo-ิ</item>
+        <item>^(oo)^</item>
+        <item>~o~/~</item>
+        <item>*^o^*</item>
+        <item>ˋ_ˊ¦¦</item>
+        <item>○^~^○</item>
+        <item>\#^_^</item>
+        <item>^口^</item>
+        <item>人^人</item>
+        <item>^人^</item>
+        <item>一-一</item>
+        <item>π_π</item>
+        <item>\@ο@</item>
+        <item>:-x</item>
+        <item>T_T</item>
+        <item>Ｏrz</item>
+        <item>:-P</item>
+        <item>:-O</item>
+        <item>︶︿︶</item>
+        <item>╯^╰</item>
+        <item>〒_〒</item>
+        <item>;-(</item>
+        <item>:-(</item>
+        <item>;-></item>
+        <item>∩_∩</item>
+        <item>%-)</item>
+        <item>→_→</item>
+        <item>¯^¯</item>
+        <item>⊙⊙?</item>
+        <item>⊙.⊙</item>
+        <item>:-@</item>
+        <item>;-)</item>
+        <item>^÷^</item>
+        <item>:-@</item>
+        <item>╰_╯</item>
+        <item>ˋ^ˊ</item>
+        <item>:-/</item>
+        <item>:-*</item>
+        <item>:-)</item>
+        <item>^_^</item>
+        <item>$_$</item>
+        <item>:-></item>
+        <item>:-D</item>
+        <item>B-)</item>
+        <item>b_d</item>
+        <item>:P</item>
+        <item>ōk</item>
+        <item>∠※</item>
+        <item>:-J</item>
+        <item>:)</item>
+        <item>:(</item>
+        <item>:D</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 vez</item>
+        <item>2 vezes</item>
+        <item>3 vezes</item>
+        <item>5 vezes</item>
+        <item>10 vezes</item>
+    </string-array>
+    <string-array name="prefValues_ringtone_repeat">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>Outro...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Somente em modo Silencioso</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+</resources>

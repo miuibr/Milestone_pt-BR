@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="PreviewInMultipleItem">
+        <item name="android:focusable">false</item>
+        <item name="android:layout_width">81.599976dip</item>
+        <item name="android:layout_height">136.0dip</item>
+        <item name="android:layout_marginLeft">1.0px</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+    <style name="PreviewInCombineTextItem">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">5.0dip</item>
+        <item name="android:layout_marginRight">5.0dip</item>
+    </style>
+    <style name="PreviewInCombineTextItemImage">
+        <item name="android:background">@drawable/online_thumbnail_background</item>
+        <item name="android:layout_width">92.0dip</item>
+        <item name="android:layout_height">144.0dip</item>
+    </style>
+    <style name="PreviewInCombineTextItemText">
+        <item name="android:layout_width">92.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="PreviewInCombineThinItem">
+        <item name="android:background">@drawable/online_thumbnail_background</item>
+        <item name="android:layout_width">92.0dip</item>
+        <item name="android:layout_height">144.0dip</item>
+        <item name="android:layout_marginLeft">5.0dip</item>
+        <item name="android:layout_marginRight">5.0dip</item>
+    </style>
+    <style name="PreviewInCombineItem">
+        <item name="android:background">@drawable/online_thumbnail_background</item>
+        <item name="android:layout_width">92.0dip</item>
+        <item name="android:layout_height">83.0dip</item>
+        <item name="android:layout_marginLeft">2.0dip</item>
+        <item name="android:layout_marginRight">2.0dip</item>
+    </style>
+    <style name="PreviewItemImage">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+    <style name="ResourceProperty">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ResourcePropertyTitle">
+        <item name="android:textAppearance">@android:style/TextAppearance.Small</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="ResourcePropertyContent">
+        <item name="android:textAppearance">@android:style/TextAppearance.Small</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">3.0</item>
+    </style>
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="NoResultHints">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:focusable">false</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">20.0dip</item>
+        <item name="android:drawableLeft">@drawable/text_header_dot</item>
+        <item name="android:drawablePadding">5.0dip</item>
+    </style>
+    <style name="RecentAppsButton">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff4f5961</item>
+        <item name="android:background">@drawable/button_bg</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">43.0dip</item>
+        <item name="android:shadowColor">#99ffffff</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.2</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="RecentAppsIconsWrapper">
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:layout_marginTop">18.0dip</item>
+        <item name="android:layout_marginRight">10.0dip</item>
+    </style>
+    <style name="SearchResult">
+        <item name="android:textStyle">normal</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="SearchResult.Title" parent="@style/SearchResult">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/search_item_text1_color</item>
+    </style>
+    <style name="SearchResult.Title.HighLight" parent="@style/SearchResult.Title">
+        <item name="android:textColor">@color/search_item_text1_high_light_color</item>
+    </style>
+    <style name="SearchResult.Subtitle" parent="@style/SearchResult">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/search_item_text2_color</item>
+    </style>
+    <style name="ActivityWindowAnimations">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+        <item name="android:windowShowAnimation">@android:anim/fade_in</item>
+        <item name="android:windowHideAnimation">@android:anim/fade_out</item>
+        <item name="android:activityOpenEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:activityOpenExitAnimation">@android:anim/fade_out</item>
+        <item name="android:activityCloseEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:activityCloseExitAnimation">@android:anim/fade_out</item>
+        <item name="android:taskOpenEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:taskOpenExitAnimation">@android:anim/fade_out</item>
+        <item name="android:taskCloseEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:taskCloseExitAnimation">@android:anim/fade_out</item>
+        <item name="android:taskToFrontEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:taskToFrontExitAnimation">@android:anim/fade_out</item>
+        <item name="android:taskToBackEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:taskToBackExitAnimation">@android:anim/fade_out</item>
+    </style>
+    <style name="ActivityWindowAttr">
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/ActivityWindowAnimations</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+</resources>

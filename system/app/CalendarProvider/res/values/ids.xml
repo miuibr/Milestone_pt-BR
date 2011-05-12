@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <item type="id" name="agenda_appwidget">false</item>
+    <item type="id" name="divider">false</item>
+    <item type="id" name="no_events">false</item>
+    <item type="id" name="day_of_month">false</item>
+    <item type="id" name="day_of_week">false</item>
+    <item type="id" name="when">false</item>
+    <item type="id" name="where">false</item>
+    <item type="id" name="conflict">false</item>
+    <item type="id" name="title">false</item>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <public type="drawable" name="appwidget_background" id="0x7f020001" />
+    <public type="drawable" name="app_icon" id="0x7f020000" />
+    <public type="drawable" name="appwidget_bg" id="0x7f020002" />
+    <public type="drawable" name="appwidget_bg_focus" id="0x7f020003" />
+    <public type="drawable" name="appwidget_bg_press" id="0x7f020004" />
+    <public type="drawable" name="appwidget_calendar_bgtop_blue" id="0x7f020005" />
+    <public type="drawable" name="white_list_rule_cal" id="0x7f020006" />
+    <public type="layout" name="agenda_appwidget" id="0x7f030000" />
+    <public type="xml" name="appwidget_info" id="0x7f040000" />
+    <public type="xml" name="syncadapter" id="0x7f040001" />
+    <public type="color" name="appwidget_date" id="0x7f050000" />
+    <public type="color" name="appwidget_when" id="0x7f050001" />
+    <public type="color" name="appwidget_title" id="0x7f050002" />
+    <public type="color" name="appwidget_where" id="0x7f050003" />
+    <public type="color" name="appwidget_conflict" id="0x7f050004" />
+    <public type="color" name="appwidget_no_events" id="0x7f050005" />
+    <public type="dimen" name="appwidget_width" id="0x7f060000" />
+    <public type="dimen" name="appwidget_height" id="0x7f060001" />
+    <public type="string" name="calendar_storage" id="0x7f070000" />
+    <public type="string" name="gadget_title" id="0x7f070001" />
+    <public type="string" name="no_title_label" id="0x7f070002" />
+    <public type="string" name="calendar_default_name" id="0x7f070003" />
+    <public type="string" name="gadget_no_events" id="0x7f070004" />
+    <public type="string" name="calendar_info" id="0x7f070005" />
+    <public type="string" name="calendar_info_error" id="0x7f070006" />
+    <public type="string" name="calendar_info_no_calendars" id="0x7f070007" />
+    <public type="string" name="calendar_info_events" id="0x7f070008" />
+    <public type="string" name="calendar_info_events_dirty" id="0x7f070009" />
+    <public type="string" name="provider_label" id="0x7f07000a" />
+    <public type="plurals" name="gadget_more_events" id="0x7f080000" />
+    <public type="id" name="agenda_appwidget" id="0x7f090000" />
+    <public type="id" name="divider" id="0x7f090001" />
+    <public type="id" name="no_events" id="0x7f090002" />
+    <public type="id" name="day_of_month" id="0x7f090003" />
+    <public type="id" name="day_of_week" id="0x7f090004" />
+    <public type="id" name="when" id="0x7f090005" />
+    <public type="id" name="where" id="0x7f090006" />
+    <public type="id" name="conflict" id="0x7f090007" />
+    <public type="id" name="title" id="0x7f090008" />
+</resources>

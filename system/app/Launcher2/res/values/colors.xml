@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="window_background">#ff191919</color>
+    <color name="grid_dark_background">#eb191919</color>
+    <color name="bubble_dark_background">#b2191919</color>
+    <color name="delete_color_filter">#a5ff0000</color>
+    <color name="hotseat_color_filter">#a500ff00</color>
+    <color name="appwidget_error_color">#ffcccccc</color>
+    <color name="snag_callout_color">#ff444444</color>
+    <color name="gesture_color">#ff0563c1</color>
+    <color name="uncertain_gesture_color">#ff848484</color>
+    <color name="editing_background">#99000000</color>
+    <color name="workspace_preview_background">#99000000</color>
+    <color name="white_30_transparent">#55ffffff</color>
+    <color name="white_40_transparent">#64ffffff</color>
+    <color name="white_50_transparent">#80ffffff</color>
+    <color name="lyric_shadow_color">#ff0084ff</color>
+    <item type="color" name="gadget_player_lyric_text_n">@color/white_50_transparent</item>
+    <item type="color" name="gadget_player_lyric_text_p">@color/white_50_transparent</item>
+    <item type="color" name="gadget_player_lyric_current_text_n">@android:color/white</item>
+    <item type="color" name="gadget_player_lyric_current_text_p">@android:color/white</item>
+    <item type="color" name="gadget_player_track_text_n">@android:color/white</item>
+    <item type="color" name="gadget_player_track_text_p">@android:color/white</item>
+    <item type="color" name="gadget_player_artist_text_n">@color/white_50_transparent</item>
+    <item type="color" name="gadget_player_artist_text_p">@color/white_50_transparent</item>
+    <item type="color" name="gadget_player_time_text_n">@android:color/white</item>
+    <item type="color" name="gadget_player_time_text_p">@android:color/white</item>
+    <color name="icon_title_text">#ffffffff</color>
+    <color name="icon_title_text_shadow">#ff000000</color>
+    <color name="icon_message_text">#ffffffff</color>
+    <color name="folder_title_text">#ff2d2f36</color>
+    <color name="folder_title_text_shadow">#99ffffff</color>
+    <color name="folder_setting_remane_text">#ffcccccc</color>
+    <color name="folder_setting_checkbox_text">#ff333333</color>
+    <color name="folder_setting_list_text_pressed">#ffffffff</color>
+    <color name="folder_setting_list_text_selected">#ffffffff</color>
+    <color name="folder_setting_list_enabled">#80333333</color>
+    <color name="folder_setting_list_default">#ff333333</color>
+    <color name="user_folder_password_text">#ff3366cc</color>
+    <color name="user_folder_hidden_btn_text">#ff3366cc</color>
+    <color name="icon_shadow">#99333333</color>
+</resources>

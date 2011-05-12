@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameLayout android:gravity="bottom" android:layout_gravity="bottom" android:background="@drawable/lock_screen_control_middle_bg" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="17.0dip" android:textColor="#a5ffffff" android:gravity="center" android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/lockscreen_time_bottom_hint" android:shadowColor="#48000000" android:shadowDx="0.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+</FrameLayout>

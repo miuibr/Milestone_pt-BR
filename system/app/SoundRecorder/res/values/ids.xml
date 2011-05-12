@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <item type="id" name="time_calculator">false</item>
+    <item type="id" name="wheel_left">false</item>
+    <item type="id" name="wheel_right">false</item>
+    <item type="id" name="wheel_small_left">false</item>
+    <item type="id" name="wheel_small_right">false</item>
+    <item type="id" name="file_name">false</item>
+    <item type="id" name="vumeter_layout">false</item>
+    <item type="id" name="play_seek_bar_layout">false</item>
+    <item type="id" name="starttime">false</item>
+    <item type="id" name="play_seek_bar">false</item>
+    <item type="id" name="totaltime">false</item>
+    <item type="id" name="newButton">false</item>
+    <item type="id" name="finishButton">false</item>
+    <item type="id" name="recordButton">false</item>
+    <item type="id" name="stopButton">false</item>
+    <item type="id" name="playButton">false</item>
+    <item type="id" name="pauseButton">false</item>
+    <item type="id" name="deleteButton">false</item>
+    <item type="id" name="menu_view_list">false</item>
+    <item type="id" name="menu_setting">false</item>
+</resources>

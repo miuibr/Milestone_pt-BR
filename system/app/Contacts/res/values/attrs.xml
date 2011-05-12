@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <attr name="mimeType" format="string" />
+    <attr name="remoteViews" format="reference" />
+    <attr name="icon" format="reference" />
+    <attr name="summaryColumn" format="string" />
+    <attr name="detailColumn" format="string" />
+    <attr name="edgeWidth" format="dimension" />
+    <attr name="listenEdges">
+        <flag name="left" value="0x00000001" />
+        <flag name="right" value="0x00000002" />
+    </attr>
+</resources>

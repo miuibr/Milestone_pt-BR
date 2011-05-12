@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Dados Wi-Fi</item>
+        <item>Todos os Aplicativos</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>SMS e MMS</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Contatos</item>
+        <item>Histórico de chamadas</item>
+        <item>Mensagens</item>
+        <item>Config. Wi-Fi</item>
+        <item>Aparência</item>
+        <item>Notas</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>(Dados)</item>
+        <item>(Aplicativos)</item>
+        <item>(Dados + Aplicativos)</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Contatos</item>
+        <item>Histórico de chamadas</item>
+        <item>Mensagens</item>
+        <item>Config. Wi-Fi</item>
+    </string-array>
+</resources>

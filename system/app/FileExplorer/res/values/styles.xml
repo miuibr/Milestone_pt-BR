@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="ShadowStyle">
+        <item name="android:shadowColor">#ff6e6e6e</item>
+        <item name="android:shadowDx">0.5</item>
+        <item name="android:shadowDy">0.5</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="DeepStyle">
+        <item name="android:shadowColor">#ff000000</item>
+        <item name="android:shadowDx">-0.5</item>
+        <item name="android:shadowDy">-0.5</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="OrangeStyle">
+        <item name="android:shadowColor">#ff742061</item>
+        <item name="android:shadowDx">-0.5</item>
+        <item name="android:shadowDy">-0.5</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="Dialog_Fullscreen">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="GreenStyle">
+        <item name="android:shadowColor">#ff003300</item>
+        <item name="android:shadowDx">-0.5</item>
+        <item name="android:shadowDy">-0.5</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="HomeButtonStytle">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">10.0dip</item>
+    </style>
+    <style name="FileViewToolbarButtonStytle">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">10.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="FileViewOperationButtonStytle">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ff666666</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/operation_button_background</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="FileViewOperationMoveButtonStytle">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">#ff666666</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/remote_button_bg</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">5.0dip</item>
+        <item name="android:layout_marginRight">5.0dip</item>
+    </style>
+    <style name="CategoryButtonStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="CategoryButtonIconStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">3.0px</item>
+    </style>
+    <style name="CategoryButtonTextStyle">
+        <item name="android:textSize">19.0px</item>
+        <item name="android:textColor">#ff111111</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="CategoryButtonCountTextStyle">
+        <item name="android:textSize">15.0px</item>
+        <item name="android:textColor">#ffa6a6a6</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="InformationItemTitleStyle">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_width">60.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="InformationItemContentStyle">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">5.0dip</item>
+    </style>
+    <style name="InformationItemStyle">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+    </style>
+    <style name="InformationTextStyle">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">#ff222222</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="CategoryLegendStyle">
+        <item name="android:textSize">10.0dip</item>
+        <item name="android:textColor">#ff222222</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_width">73.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">2.0dip</item>
+        <item name="android:drawablePadding">5.0px</item>
+    </style>
+    <style name="InformationDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/popup_bg</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="ActionButton">
+        <item name="android:textAppearance">@style/TextAppearance.ActionButton</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="TextAppearance" parent="@android:style/TextAppearance" />
+    <style name="TextAppearance.ActionButton" parent="@style/TextAppearance">
+        <item name="android:textStyle">italic</item>
+    </style>
+</resources>

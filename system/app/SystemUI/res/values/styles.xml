@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="TextAppearance.StatusBar.Title" parent="@android:style/TextAppearance.StatusBar">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@drawable/notification_header_text_color</item>
+    </style>
+    <style name="TextAppearance.StatusBar.IntruderAlert" parent="@android:style/TextAppearance.StatusBar" />
+    <style name="StatusBarGridItem">
+        <item name="android:textSize">@android:dimen/list_secondary_text_size</item>
+        <item name="android:textColor">@android:color/mi_dim_foreground_dark</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/status_bar_grid_item_bg</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:drawableCompactMode">true</item>
+    </style>
+    <style name="StatusBarTab">
+        <item name="android:textSize">@android:dimen/button_text_size</item>
+        <item name="android:textColor">@color/tab_lable_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:shadowColor">#d9ffffff</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+</resources>

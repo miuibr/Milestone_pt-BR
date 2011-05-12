@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <item type="id" name="tip_bubble">false</item>
+    <item type="id" name="bugdroid">false</item>
+    <item type="id" name="tip_footer">false</item>
+    <item type="id" name="tip_callout">false</item>
+    <item type="id" name="tip_header">false</item>
+    <item type="id" name="tip_message">false</item>
+    <item type="id" name="widget">false</item>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout android:gravity="bottom" android:layout_gravity="bottom" android:orientation="vertical" android:background="@drawable/lock_screen_control_middle_bg" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="13.0dip" android:textColor="@color/white" android:ellipsize="marquee" android:layout_gravity="top|center" android:id="@id/title" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:singleLine="true" android:shadowColor="#48000000" android:shadowDx="0.0" android:shadowDy="3.0" android:shadowRadius="5.0" />
+    <LinearLayout android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/lockscreen_music_command" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/previous" android:layout_width="0.0dip" android:layout_height="wrap_content" android:src="@drawable/lock_screen_music_previous" android:layout_weight="1.0" />
+        <ImageView android:id="@id/play_pause" android:layout_width="0.0dip" android:layout_height="wrap_content" android:src="@drawable/lock_screen_music_play" android:layout_weight="1.0" />
+        <ImageView android:id="@id/next" android:layout_width="0.0dip" android:layout_height="wrap_content" android:src="@drawable/lock_screen_music_next" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

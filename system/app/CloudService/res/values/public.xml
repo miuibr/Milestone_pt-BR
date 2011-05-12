@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <public type="drawable" name="icon" id="0x7f020000" />
+    <public type="layout" name="account" id="0x7f030000" />
+    <public type="layout" name="login_view" id="0x7f030001" />
+    <public type="xml" name="authenticator" id="0x7f040000" />
+    <public type="xml" name="preferences" id="0x7f040001" />
+    <public type="xml" name="syncadapter_contacts" id="0x7f040002" />
+    <public type="raw" name="miui" id="0x7f050000" />
+    <public type="string" name="app_name" id="0x7f060000" />
+    <public type="string" name="service_name" id="0x7f060001" />
+    <public type="string" name="authenticator_label" id="0x7f060002" />
+    <public type="string" name="logon" id="0x7f060003" />
+    <public type="string" name="nickname" id="0x7f060004" />
+    <public type="string" name="username" id="0x7f060005" />
+    <public type="string" name="password" id="0x7f060006" />
+    <public type="string" name="email" id="0x7f060007" />
+    <public type="string" name="registered_account" id="0x7f060008" />
+    <public type="string" name="bad_username" id="0x7f060009" />
+    <public type="string" name="bad_verification" id="0x7f06000a" />
+    <public type="string" name="bad_authentication" id="0x7f06000b" />
+    <public type="string" name="email_not_verified" id="0x7f06000c" />
+    <public type="string" name="terms_not_agreed" id="0x7f06000d" />
+    <public type="string" name="account_deleted" id="0x7f06000e" />
+    <public type="string" name="account_disabled" id="0x7f06000f" />
+    <public type="string" name="service_disabled" id="0x7f060010" />
+    <public type="string" name="service_unavailable" id="0x7f060011" />
+    <public type="string" name="network_error" id="0x7f060012" />
+    <public type="string" name="unknown" id="0x7f060013" />
+    <public type="string" name="my_account" id="0x7f060014" />
+    <public type="string" name="must_input" id="0x7f060015" />
+    <public type="string" name="login_account_suggestion" id="0x7f060016" />
+    <public type="string" name="loging_on" id="0x7f060017" />
+    <public type="id" name="login_view" id="0x7f070000" />
+    <public type="id" name="login_username_edit_text" id="0x7f070001" />
+    <public type="id" name="login_password_edit_text" id="0x7f070002" />
+    <public type="id" name="login" id="0x7f070003" />
+    <public type="id" name="login_progressbar" id="0x7f070004" />
+    <public type="id" name="login_button" id="0x7f070005" />
+    <public type="id" name="login_status_text" id="0x7f070006" />
+</resources>

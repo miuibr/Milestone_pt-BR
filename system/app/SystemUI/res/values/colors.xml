@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="status_bar_background_transparent">#66000000</color>
+    <color name="status_bar_textColor_alternative">#ff61656e</color>
+    <item type="color" name="status_bar_battery_level_color">@color/status_bar_textColor_alternative</item>
+    <color name="tab_lable_color_p">#ffee7d05</color>
+    <color name="tab_lable_color_n">#ff645750</color>
+</resources>

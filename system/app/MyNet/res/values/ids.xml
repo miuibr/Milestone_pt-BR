@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <item type="id" name="ssid_error">false</item>
+    <item type="id" name="ssid_text">false</item>
+    <item type="id" name="ssid_edit">false</item>
+    <item type="id" name="security_text">false</item>
+    <item type="id" name="security_spinner">false</item>
+    <item type="id" name="password_error">false</item>
+    <item type="id" name="password_text">false</item>
+    <item type="id" name="password_edit">false</item>
+    <item type="id" name="show_password_checkbox">false</item>
+    <item type="id" name="wep_type_spinner">false</item>
+    <item type="id" name="channel_text">false</item>
+    <item type="id" name="channel_spinner">false</item>
+</resources>

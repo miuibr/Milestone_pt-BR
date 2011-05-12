@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CheckBoxPreference android:title="@string/pref_enable_drawing_cache_title" android:key="pref_key_enable_drawing_cache" android:summary="@string/pref_enable_drawing_cache_summary" android:defaultValue="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

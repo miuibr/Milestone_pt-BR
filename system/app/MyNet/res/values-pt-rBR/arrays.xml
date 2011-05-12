@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="wifi_ap_security_entries">
+        <item>Nenhum</item>
+        <item>WEP</item>
+        <item>WPA</item>
+        <item>WPA2</item>
+    </string-array>
+    <string-array name="wifi_wep_type">
+        <item>Auto</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexadecimal</item>
+    </string-array>
+</resources>

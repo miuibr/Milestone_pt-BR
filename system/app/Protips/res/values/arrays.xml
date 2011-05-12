@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="tips">
+        <item>See all your apps.\n Touch the Launcher icon. @drawable/all_apps</item>
+        <item>Drag apps to your Home screen.\n Touch &amp;amp;amp; hold an app in the Launcher until it vibrates.</item>
+        <item>Rearrange your Home screen.\n Touch &amp;amp;amp; hold an item and when it vibrates, drag it where you want.</item>
+        <item>Remove items.\n Touch &amp;amp;amp; hold an item and when it vibrates, drag it to the Trash icon. @drawable/trash</item>
+        <item>Multiple Home screens.\n Swipe left or right to switch. Drag items to other screens.</item>
+        <item>Done with this widget?\n Touch &amp;amp;amp; hold it and when it vibrates, drag it to the Trash icon.</item>
+    </string-array>
+    <string-array name="tips2">
+        <item>Home is a garden \nTouch &amp;amp;amp; hold an empty spot \nTo grow new icons</item>
+        <item>Phone isn’t waterproof \nDo not immerse in water \nor other fluids</item>
+        <item>Want some more home screens? \nSwipe left and right to find them \n(No theft required)</item>
+        <item>Little Home screen dots \nWhat could they possibly do? \nTouch &amp;amp;amp; hold to learn.</item>
+        <item>Status bar icons \nTo discover their secrets \nPull the windowshade</item>
+        <item>There is a trick to \nDragging items twixt Home screens \nPause at the edges</item>
+        <item>Touch Market for apps \nLike a box of chocolates \nEach one a surprise</item>
+        <item>Oh, and by the way: \nCeci n’est pas une trombone \nI am an Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="timestamp_color">#bf000000</color>
+    <color name="nickname_placeholder_fg">#ff528c40</color>
+    <color name="nickname_placeholder_bg">#ffddf6cb</color>
+    <color name="unread_bgcolor">#ffffffff</color>
+    <color name="read_bgcolor">#ffeeeeee</color>
+    <color name="conversation_title_primary_text_color">#ffffffff</color>
+    <color name="conversation_title_secondary_text_color">#80ffffff</color>
+    <color name="conversation_title_text_shadow">#80000000</color>
+    <color name="message_list_title_text_color">#ff8b909d</color>
+    <color name="message_list_title_text_shadow">#e6ffffff</color>
+    <color name="message_bubble_title_text_color">#ff6d717c</color>
+    <color name="message_bubble_title_text_shadow">#80ffffff</color>
+    <color name="message_deliver_text_shadow">#80ffffff</color>
+    <color name="message_bubble_body_text_color">#cd000000</color>
+    <color name="message_bubble_body_text_shadow">#80ffffff</color>
+    <color name="message_list_in_body_text_color">#ff313131</color>
+    <color name="message_list_in_body_text_shadow">#e6ffffff</color>
+    <color name="message_list_out_body_text_color">#ff877654</color>
+    <color name="message_list_out_body_text_shadow">#e6ffffff</color>
+    <color name="message_body_link_color">#ff307ab3</color>
+    <color name="message_body_mms_text_color">#cd000000</color>
+    <color name="message_body_mms_text_color_shadow">#80ffffff</color>
+    <color name="message_button_alert_text_color">#ffffffff</color>
+    <color name="message_body_notification_text_color">#80000000</color>
+    <item type="color" name="recipient_edit_primary_text_color">@android:color/widget_edittext_dark</item>
+    <item type="color" name="recipient_edit_secondary_text_color">@android:color/hint_foreground_light</item>
+    <color name="flatshow_pageno_text">#ffffffff</color>
+    <color name="flatshow_pageno_text_shadow">#80000000</color>
+</resources>

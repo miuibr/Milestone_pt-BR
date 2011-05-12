@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <item type="id" name="aboutscrollview">false</item>
+    <item type="id" name="torch">false</item>
+    <item type="id" name="torch_message">false</item>
+    <item type="id" name="torch_light">false</item>
+    <item type="id" name="ruler1">false</item>
+    <item type="id" name="brightRow">false</item>
+    <item type="id" name="brightLabel">false</item>
+    <item type="id" name="bright">false</item>
+    <item type="id" name="ruler2">false</item>
+    <item type="id" name="strobeRow">false</item>
+    <item type="id" name="strobeLabel">false</item>
+    <item type="id" name="strobeTimeLabel">false</item>
+    <item type="id" name="slider">false</item>
+    <item type="id" name="strobe">false</item>
+    <item type="id" name="ruler3">false</item>
+    <item type="id" name="saveSetting">false</item>
+    <item type="id" name="main">false</item>
+    <item type="id" name="btn">false</item>
+    <item type="id" name="img_torch">false</item>
+    <item type="id" name="ind">false</item>
+</resources>

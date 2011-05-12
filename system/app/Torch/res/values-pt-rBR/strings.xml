@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Lanterna</string>
+    <string name="about">Sobre:</string>
+    <string name="about_btn">Sobre Lanterna</string>
+    <string name="about_title">Sobre</string>
+    <string name="about_close">Fechar</string>
+    <string name="description">Este programa manipula o LED da câmera.\n</string>
+    <string name="warning">Atenção: Deixando o LED ligado por um longo tempo poderá superaquecê-lo.\n\nBrilho total \'sempre ligado\' foi testado em execução por meia hora, mas há o risco de danificar o LED.\n</string>
+    <string name="license">Código original do Nexus One Lanterna por Ben Buxton, lançado sob a GPL, v3.\nhttp://n1torch.googlecode.com/\n\nAgradecimentos ao David Prieto pelo projeto da nova interface.\n\nModificado para CyanogenMod por Steve Kondik.\n\n</string>
+    <string name="warning_label">Aviso</string>
+    <string name="brightwarn">Brilho total foi testado com sucesso por uma meia hora de operação, mas ficou bastante quente, e começou a cintilação (temporariamente) em 45 minutos. Os efeitos a longo prazo são desconhecidos.\n\nEste não é compatível com o widget ainda.\n\nClique \'aceitar\' se você quiser usá-lo por sua conta e risco.</string>
+    <string name="brightwarn_title">Botão Hi-brite \'Ligado\'!!!</string>
+    <string name="brightwarn_negative">Não, obrigado</string>
+    <string name="brightwarn_accept">Aceitar</string>
+    <string name="label_on">Ligado</string>
+    <string name="label_off">Desligado</string>
+    <string name="label_high">Alto brilho</string>
+    <string name="label_strobe">Estrobo</string>
+    <string name="label_frequency">Freqüência: (deslize para mudar)</string>
+    <string name="widget_options">Opções gerais</string>
+    <string name="setting_widget_bright">Brilho Widget</string>
+    <string name="setting_widget_strobe">Flash Estrobo</string>
+    <string name="setting_frequency_title">Freqüência Estrobo</string>
+    <string name="setting_frequency_summary">Freqüência de luz estroboscópica</string>
+    <string name="setting_frequency_dialog">Frequência</string>
+    <string name="setting_frequency_hz">Hz</string>
+    <string name="setting_add_widget">Adicionar Widget</string>
+    <string name="not_torch_title">Lanterna Ligada</string>
+    <string name="not_torch_summary">Lanterna atualmente ligada</string>
+    <string name="widget_label">Lanterna</string>
+    <string name="torch_message">Você pode rapidamente ligar a lanterna segurando [icon] na tela de bloqueio</string>
+</resources>

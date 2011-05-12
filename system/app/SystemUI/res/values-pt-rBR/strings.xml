@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">Barra de status</string>
+    <string name="status_bar_clear_all_button">Limpar</string>
+    <string name="status_bar_no_notifications_title">Sem notificações</string>
+    <string name="status_bar_ongoing_events_title">Em andamento</string>
+    <string name="status_bar_latest_events_title">Notificações</string>
+    <string name="battery_low_title">Conecte o carregador</string>
+    <string name="battery_low_subtitle">A bateria está acabando:</string>
+    <string name="battery_low_percent_format">%d%% ou menos ainda.</string>
+    <string name="battery_low_why">Uso da bateria</string>
+    <string name="tab_notifications_lable">Notificações</string>
+    <string name="tab_toggles_lable">Atalhos</string>
+    <string name="tab_apps_lable">Aplicações</string>
+    <string name="apps_clean_title">Matar aplicações</string>
+    <string name="apps_clean_current_memory">Memória disponível %1$s</string>
+    <string name="apps_clean_result">%1$s liberada, memória atual disponível: %2$s</string>
+    <string name="status_bar_button_wifi">Wi-Fi</string>
+    <string name="status_bar_button_apn">Dados</string>
+    <string name="status_bar_button_bluetooth">Bluetooth</string>
+    <string name="status_bar_button_rotate">Rotação</string>
+    <string name="status_bar_button_brightness">Brilho</string>
+    <string name="status_bar_button_ringer_normal">Som</string>
+    <string name="status_bar_button_ringer_vibrate">Vibração</string>
+    <string name="status_bar_button_ringer_mute">Silencioso</string>
+    <string name="status_bar_button_gps">GPS</string>
+    <string name="status_bar_button_sync">Sincronia</string>
+    <string name="status_bar_button_cpu">CPU</string>
+    <string name="status_bar_button_vibrate">Vibrar</string>
+    <string name="status_bar_button_flight_mode">Avião</string>
+    <string name="status_bar_button_lock">Bloquear</string>
+    <string name="status_bar_button_torch">Lanterna</string>
+    <string name="status_bar_button_reboot">Reiniciar</string>
+    <string name="status_bar_button_shutdown">Desligar</string>
+    <string name="status_bar_time_format_12">h:mma</string>
+    <string name="status_bar_time_format_24">HH:mm</string>
+    <string name="status_bar_date_format">dd/MM/yyyy\u0020</string>
+    <string name="status_bar_date_format_lock">EEE, d \'de\' MMMM</string>
+    <string name="usb_accessory_permission_prompt">Allow the application %1$s to access the USB accessory?</string>
+    <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
+    <string name="usb_accessory_confirm_prompt">Open %1$s when this USB accessory is connected?</string>
+    <string name="usb_accessory_uri_prompt">No installed applications work with this USB accessory. Learn more about this accessory at %1$s</string>
+    <string name="title_usb_accessory">USB accessory</string>
+    <string name="label_view">View</string>
+    <string name="always_use_accessory">Use by default for this USB accessory</string>
+</resources>

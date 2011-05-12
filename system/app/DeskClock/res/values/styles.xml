@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="clock">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="alarm_alert" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="RoundTouchButton">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/incall_round_button</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ButtonStripLeft">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/btn_strip_trans_left</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ButtonStripMiddle">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/btn_strip_trans_middle</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ButtonStripRight">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/btn_strip_trans_right</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="alarm_list_left_column">
+        <item name="android:layout_width">68.0dip</item>
+        <item name="android:layout_height">68.0dip</item>
+    </style>
+</resources>

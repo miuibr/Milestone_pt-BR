@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="TextAppearance">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHighlight">#ffff9200</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+        <item name="android:textColorLink">#ff5c5cff</item>
+    </style>
+    <style name="TextAppearance.SearchResult" parent="@style/TextAppearance">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+        <item name="android:textColorHint">?android:textColorHintInverse</item>
+    </style>
+    <style name="TextAppearance.SearchResult.Title" parent="@style/TextAppearance.SearchResult">
+        <item name="android:textSize">16.0sp</item>
+    </style>
+    <style name="TextAppearance.SearchResult.Subtitle" parent="@style/TextAppearance.SearchResult">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">?android:textColorSecondaryInverse</item>
+    </style>
+    <style name="TextAppearanceConversationTitle">
+        <item name="android:shadowColor">@color/conversation_title_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">-1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="TextAppearanceConversationTitle.Primary" parent="@style/TextAppearanceConversationTitle">
+        <item name="android:textSize">@dimen/conversation_title_primary_font_size</item>
+        <item name="android:textColor">@color/conversation_title_primary_text_color</item>
+    </style>
+    <style name="TextAppearanceConversationTitle.Secondary" parent="@style/TextAppearanceConversationTitle">
+        <item name="android:textSize">@dimen/conversation_title_secondary_font_size</item>
+        <item name="android:textColor">@color/conversation_title_secondary_text_color</item>
+    </style>
+    <style name="TextAppearanceMessageTitle">
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="TextAppearanceMessageTitle.List" parent="@style/TextAppearanceMessageTitle">
+        <item name="android:textSize">@dimen/message_list_title_font_size</item>
+        <item name="android:textColor">@color/message_list_title_text</item>
+        <item name="android:shadowColor">@color/message_list_title_text_shadow</item>
+    </style>
+    <style name="TextAppearanceMessageTitle.Bubble" parent="@style/TextAppearanceMessageTitle">
+        <item name="android:textSize">@dimen/message_bubble_title_font_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/message_bubble_title_text_color</item>
+        <item name="android:shadowColor">@color/message_list_title_text_shadow</item>
+    </style>
+    <style name="TextAppearanceMessageDeliver">
+        <item name="android:textSize">@dimen/message_deliver_font_size</item>
+        <item name="android:shadowColor">@color/message_deliver_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="TextAppearanceMessageDeliver.List" parent="@style/TextAppearanceMessageDeliver">
+        <item name="android:textColor">@color/message_list_title_text</item>
+    </style>
+    <style name="TextAppearanceMessageDeliver.Bubble" parent="@style/TextAppearanceMessageDeliver">
+        <item name="android:textColor">@color/message_bubble_title_text_color</item>
+    </style>
+    <style name="TextAppearanceMessageBody">
+        <item name="android:textSize">@dimen/message_body_font_size</item>
+        <item name="android:textColorLink">@color/message_body_link</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="TextAppearanceMessageBody.Bubble" parent="@style/TextAppearanceMessageBody">
+        <item name="android:textSize">@dimen/message_body_font_size</item>
+        <item name="android:textColor">@color/message_bubble_body_text</item>
+        <item name="android:shadowColor">@color/message_bubble_body_text_shadow</item>
+    </style>
+    <style name="TextAppearanceMessageBody.ListIn" parent="@style/TextAppearanceMessageBody">
+        <item name="android:textColor">@color/message_list_in_body_text</item>
+        <item name="android:shadowColor">@color/message_list_in_body_text_shadow</item>
+    </style>
+    <style name="TextAppearanceMessageBody.ListOut" parent="@style/TextAppearanceMessageBody">
+        <item name="android:textColor">@color/message_list_out_body_text</item>
+        <item name="android:shadowColor">@color/message_list_out_body_text_shadow</item>
+    </style>
+    <style name="TextAppearanceMessageBody.Mms" parent="@style/TextAppearanceMessageBody">
+        <item name="android:textSize">@dimen/message_body_font_size</item>
+        <item name="android:textColor">@color/message_body_mms_text_color</item>
+        <item name="android:shadowColor">@color/message_body_mms_text_color_shadow</item>
+    </style>
+    <style name="TextAppearanceMessageBody.Notification" parent="@style/TextAppearanceMessageBody">
+        <item name="android:textSize">@dimen/message_body_font_size</item>
+        <item name="android:textColor">@color/message_body_notification_text_color</item>
+        <item name="android:shadowColor">@color/message_list_out_body_text_shadow</item>
+    </style>
+    <style name="TextAppearanceBookmarkGroup" parent="@android:style/Widget.ExpandableListView.Header">
+        <item name="android:textSize">@dimen/message_body_font_size</item>
+    </style>
+    <style name="TextAppearanceBookmarkChild.Primary" parent="@android:style/TextAppearance.ListView.PrimaryItem">
+        <item name="android:textSize">@dimen/message_body_font_size</item>
+    </style>
+    <style name="TextAppearanceBookmarkChild.Secondary" parent="@android:style/TextAppearance.ListView.SecondaryItem" />
+    <style name="TextAppearanceRecipientEditor" parent="@android:style/TextAppearance.Widget.EditText">
+        <item name="android:textSize">@dimen/message_body_font_size</item>
+    </style>
+    <style name="TextAppearanceRecipientEditor.Primary" parent="@style/TextAppearanceRecipientEditor">
+        <item name="android:textColor">@color/recipient_edit_primary_text_color</item>
+    </style>
+    <style name="TextAppearanceRecipientEditor.Secondary" parent="@style/TextAppearanceRecipientEditor">
+        <item name="android:textColor">@color/recipient_edit_secondary_text_color</item>
+    </style>
+    <style name="TextAppearanceFlatshowPageNo">
+        <item name="android:textSize">@dimen/flatshow_pageno_font_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/flatshow_pageno_text</item>
+        <item name="android:shadowColor">@color/flatshow_pageno_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="MessageButton">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="MessageButton.Download" parent="@style/MessageButton">
+        <item name="android:paddingLeft">15.0dip</item>
+        <item name="android:paddingTop">3.0dip</item>
+        <item name="android:paddingRight">17.0dip</item>
+        <item name="android:paddingBottom">7.0dip</item>
+    </style>
+    <style name="MessageButton.Alert" parent="@style/MessageButton">
+        <item name="android:textColor">@color/message_button_alert_text_color</item>
+        <item name="android:background">@drawable/alert_btn</item>
+        <item name="android:paddingLeft">13.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingRight">13.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+    </style>
+    <style name="MessageButton.Common" parent="@style/MessageButton">
+        <item name="android:background">@drawable/common_btn</item>
+        <item name="android:paddingLeft">13.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingRight">13.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+    </style>
+    <style name="AlertWindow">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.AlertDialog</item>
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="TextAppearanceOneTabTitle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+    </style>
+</resources>
