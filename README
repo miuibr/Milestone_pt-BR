@@ -1,0 +1,11 @@
+Projeto de tradução da rom MIUI (Milestone) para Português_BR.
+
+Nova estrutura de tradução baseada no modelo do telefone.
+
+Para descompilar todos os arquivos de uma vez, copie o arquivo "d_apk.bat" para a pasta ./system/app/.
+
+Copie o "apktool.jar" ( http://code.google.com/p/android-apktool/downloads/detail?name=apktool-1.3.1.tar.bz2&can=1&q= ) para o mesmo caminho.
+
+Execute o "d_apk.bat".
+
+Amplexos.
