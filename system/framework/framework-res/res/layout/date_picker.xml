@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<LinearLayout android:id="@id/parent" android:background="@drawable/timepicker_background_column3" android:layout_width="wrap_content" android:layout_height="@dimen/time_picker_height"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <WheelView android:id="@id/years" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
-    <WheelView android:id="@id/months" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
-    <WheelView android:id="@id/days" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
-</LinearLayout>

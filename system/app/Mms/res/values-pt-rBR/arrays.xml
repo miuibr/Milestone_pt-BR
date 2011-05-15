@@ -2,43 +2,43 @@
 <resources>
     <string-array name="default_smiley_texts">
         <item>:-D</item>
-        <item>;-)</item>
-        <item>;-l</item>
-        <item>:-B</item>
-        <item>;\'(</item>
-        <item>\@=</item>
-        <item>:-(</item>
-        <item>;-(</item>
-        <item>∠※</item>
-        <item>:-x</item>
-        <item>:-></item>
-        <item>B-)</item>
-        <item>*^‧^*</item>
-        <item>○^~^○</item>
         <item>:-P</item>
-        <item>:-)</item>
+        <item>:-Z</item>
+        <item>o_06</item>
+        <item>(-D</item>
+        <item>:-h</item>
+        <item>:-$</item>
+        <item>:\'(</item>
+        <item>(F)</item>
+        <item>:-(</item>
+        <item>:-#</item>
+        <item>B-)</item>
         <item>:-*</item>
-        <item>;-%</item>
+        <item>:></item>
+        <item>:x</item>
         <item>:-)</item>
-        <item>:-!</item>
-        <item>:-{</item>
+        <item>&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;3</item>
+        <item>:@</item>
+        <item>:-||</item>
+        <item>(Well done)</item>
+        <item>:-s</item>
         <item>:-O</item>
-        <item>:-?</item>
-        <item>:-[</item>
-        <item>\'-|</item>
-        <item>:-1</item>
-        <item>:-2</item>
-        <item>:-z</item>
-        <item>:ok:</item>
-        <item>:pc:</item>
-        <item>:gl:</item>
-        <item>O_O</item>
+        <item>WTF!</item>
+        <item>|-)</item>
+        <item>Meh!</item>
+        <item>:-bd</item>
+        <item>:-q</item>
+        <item>(Thanks)</item>
+        <item>||*)</item>
+        <item>:-)>-</item>
+        <item>(OK)</item>
+        <item>(^*^)</item>
     </string-array>
     <string-array name="extend_smiley_texts">
-        <item>::>_&amp;amp;amp;lt;::</item>
-        <item>&amp;amp;amp;lt;_>¦¦¦</item>
+        <item>::>_&amp;amp;amp;amp;lt;::</item>
+        <item>&amp;amp;amp;amp;lt;_>¦¦¦</item>
         <item>~~~^_^~~~</item>
-        <item>~~~(>_&amp;amp;amp;lt;)~~~</item>
+        <item>~~~(>_&amp;amp;amp;amp;lt;)~~~</item>
         <item>╮〔╯ε╰〕╭</item>
         <item>^_^/~~</item>
         <item>o∩_∩o</item>
@@ -126,12 +126,12 @@
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>
-        <item>Somente em modo Silencioso</item>
+        <item>Somente quando em silencioso</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="prefValues_vibrateWhen">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
+        <item>sempre</item>
+        <item>silencioso</item>
+        <item>nunca</item>
     </string-array>
 </resources>

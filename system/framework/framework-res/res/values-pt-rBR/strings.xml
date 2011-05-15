@@ -482,6 +482,8 @@
     <string name="permdesc_vibrate">Permite que o aplicativo controle o vibrador.</string>
     <string name="permlab_flashlight">controlar lanterna</string>
     <string name="permdesc_flashlight">Permite que o aplicativo controle a lanterna.</string>
+    <string name="permlab_manageUsb">gerenciar as preferências e permissões para os dispositivos USB</string>
+    <string name="permdesc_manageUsb">Dá permissão ao aplicativo para gerenciar suas preferências e permissões de dispositivos USB</string>
     <string name="permlab_hardware_test">testar hardware</string>
     <string name="permdesc_hardware_test">Permite que o aplicativo controle diversos periféricos para teste do hardware.</string>
     <string name="permlab_callPhone">chamar diretamente os números de telefone</string>
@@ -544,10 +546,6 @@
     <string name="permdesc_changeWifiState">Permite que um aplicativo se conecte e desconecte dos pontos de acesso Wi-Fi e faça alterações nas redes Wi-Fi configuradas.</string>
     <string name="permlab_changeWifiMulticastState">permitir recebimento de multicast Wi-Fi</string>
     <string name="permdesc_changeWifiMulticastState">Permite que um aplicativo receba pacotes não endereçados diretamente para o seu aparelho. Isso pode ser útil ao detectar os serviços oferecidos nas proximidades. Ele consome mais energia do que o modo não-multicast.</string>
-    <string name="permlab_accessWimaxState">Ver estado do WiMAX</string>
-    <string name="permdesc_accessWimaxState">Permite que um aplicativo verifique o estado de conexão de uma rede WiMAX</string>
-    <string name="permlab_changeWimaxState">Mudar estado do WiMAX</string>
-    <string name="permdesc_changeWimaxState">Permite que um aplicativo conecte ou desconecte de uma rede WiMAX</string>
     <string name="permlab_bluetoothAdmin">administração de Bluetooth</string>
     <string name="permdesc_bluetoothAdmin">Permite que um aplicativo configure o telefone Bluetooth local, descubra e pareie com dispositivos remotos.</string>
     <string name="permlab_bluetooth">criar conexões Bluetooth</string>
@@ -757,7 +755,7 @@
     <string name="alwaysUse">Use-o como padrão para esta ação.</string>
     <string name="clearDefaultHintMsg">Limpar o padrão em Configurações > Programas > Aplicações padrão.</string>
     <string name="chooseActivity">Selecionar uma ação</string>
-    <string name="chooseUsbActivity">Selecione um aplicativo para o Dispositivo USB</string>
+    <string name="chooseUsbActivity">Selecione um aplicativo para o dispositivo USB</string>
     <string name="noApplications">Nenhum aplicativo pode realizar esta ação.</string>
     <string name="aerr_title">Desculpe!</string>
     <string name="aerr_application">O aplicativo %1$s (processo %2$s) parou inesperadamente. Tente novamente.</string>
@@ -929,9 +927,10 @@
     <string name="callDetailsDurationFormat">%1$s minutos %2$s segundos</string>
     <string name="firewall_setting">Modo DND</string>
     <string name="date_day">Data</string>
-    <string name="lunar_calendar">Calendário Lunar</string>
+    <string name="lunar_calendar" />
     <string name="lunar_zheng" />
-    <string name="lunar_ling">O</string>
+    <string name="lunar_leap" />
+    <string name="lunar_ling" />
     <string name="lunar_yi" />
     <string name="lunar_er" />
     <string name="lunar_san" />
@@ -950,7 +949,7 @@
     <string name="lunar_chu" />
     <string name="lunar_nian" />
     <string name="lunar_yue" />
-    <string name="lunar_year">Ano</string>
+    <string name="lunar_year" />
     <string name="sms_traffic">Limite de tráfego de SMS alcançou %s</string>
     <string name="sms_traffic_exceeded">O limite de tráfego de SMS foi excedido em %s este mês</string>
     <string name="mobile_traffic">Limite de tráfego de internet móvel alcançou %s</string>
@@ -1152,6 +1151,5 @@
     <string name="country_name_ge">Geórgia</string>
     <string name="text_pastelist">Área de transferência (%d)</string>
     <string name="select">Selecione</string>
-    <string name="permlab_accessUsb">Acessar dispositivos USB</string>
-    <string name="permdesc_accessUsb">Permitir a aplicação a acessar dispositivos USB.</string>
+    <string name="caller_info_name_delimiter">Ou</string>
 </resources>
