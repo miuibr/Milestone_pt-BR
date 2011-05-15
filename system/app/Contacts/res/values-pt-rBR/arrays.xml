@@ -93,19 +93,19 @@
         <item>@drawable/photo_female_44</item>
     </array>
     <string-array name="pick_photo_values">
-        <item>Tirar Foto</item>
-        <item>Da Galeria</item>
-        <item>Escolher Avatar</item>
-        <item>Restaurar Padrão</item>
+        <item>Tirar foto</item>
+        <item>Galeria</item>
+        <item>Imagem Avatar</item>
+        <item>Restaurar padrão</item>
     </string-array>
     <string-array name="pick_incoming_call_photo_values">
-        <item>Tirar Foto</item>
-        <item>Da Galeria</item>
+        <item>Tirar foto</item>
+        <item>Galeria</item>
     </string-array>
     <string-array name="edit_incoming_call_photo_values">
-        <item>Tirar Foto</item>
-        <item>Da Galeria</item>
+        <item>Tirar foto</item>
+        <item>Galeria</item>
         <item>Editar foto grande</item>
-        <item>Apagar</item>
+        <item>Excluir</item>
     </string-array>
 </resources>

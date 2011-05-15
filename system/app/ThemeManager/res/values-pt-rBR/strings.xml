@@ -59,8 +59,8 @@
     <string name="online_resource_select">Selecionar</string>
     <string name="online_hotest">Melhores</string>
     <string name="online_latest">Últimos</string>
-    <string name="online_hotest_short">Hot</string>
-    <string name="online_latest_short">New</string>
+    <string name="online_hotest_short">Melhores</string>
+    <string name="online_latest_short">Últimos</string>
     <string name="online_no_network">Não foi possível obter dados da rede</string>
     <string name="online_loading">Carregando</string>
     <string name="download_failed">Falha no download</string>

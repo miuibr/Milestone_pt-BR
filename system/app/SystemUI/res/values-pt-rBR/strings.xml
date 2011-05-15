@@ -35,12 +35,12 @@
     <string name="status_bar_time_format_12">h:mma</string>
     <string name="status_bar_time_format_24">HH:mm</string>
     <string name="status_bar_date_format">dd/MM/yyyy\u0020</string>
-    <string name="status_bar_date_format_lock">EEE, d \'de\' MMMM</string>
-    <string name="usb_accessory_permission_prompt">Allow the application %1$s to access the USB accessory?</string>
-    <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
-    <string name="usb_accessory_confirm_prompt">Open %1$s when this USB accessory is connected?</string>
-    <string name="usb_accessory_uri_prompt">No installed applications work with this USB accessory. Learn more about this accessory at %1$s</string>
-    <string name="title_usb_accessory">USB accessory</string>
-    <string name="label_view">View</string>
-    <string name="always_use_accessory">Use by default for this USB accessory</string>
+    <string name="status_bar_date_format_lock">EEEE, d \'de\' MMMM</string>
+    <string name="usb_accessory_permission_prompt">Permitir a aplicação %1$s acessar o dispositivo USB?</string>
+    <string name="usb_device_confirm_prompt">Abrir %1$s quando esse dispositivo USB estiver conectado?</string>
+    <string name="usb_accessory_confirm_prompt">Abrir %1$s quando esse dispositivo USB estiver conectado?</string>
+    <string name="usb_accessory_uri_prompt">Nenhuma aplicação instalada que utiliza este dispositivo USB. Saiba mais sobre este dispositivo em %1$s</string>
+    <string name="title_usb_accessory">Dispositivo USB</string>
+    <string name="label_view">Ver</string>
+    <string name="always_use_accessory">Sempre usar este dispositivo USB</string>
 </resources>

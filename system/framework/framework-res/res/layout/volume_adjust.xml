@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/popup_none" android:layout_width="wrap_content" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/ringer_stream_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:adjustViewBounds="true" android:maxWidth="43.0dip" android:maxHeight="43.0dip" />
-    <TextView android:id="@id/message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" style="@style/NotificationTitle" />
-    <TextView android:textAppearance="?textAppearanceSmall" android:id="@id/additional_message" android:layout_width="wrap_content" android:layout_height="wrap_content" />
-    <ProgressBar android:id="@id/level" android:layout_width="246.0dip" android:layout_height="wrap_content" android:layout_marginLeft="27.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="27.0dip" style="?progressBarStyleHorizontal" />
-</LinearLayout>
