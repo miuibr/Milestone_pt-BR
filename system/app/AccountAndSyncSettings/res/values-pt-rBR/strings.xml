@@ -25,7 +25,7 @@
     <string name="sync_plug"><font fgcolor="#ffffffff">Bem-vindo ao Google Sync!</font> \nUm método do Google para sincronizar dados de modo a permitir o acesso aos seus contatos, compromissos e muito mais, onde quer que você esteja.</string>
     <string name="header_application_sync_settings">Configurações de sincronização do aplicativo</string>
     <string name="header_manage_accounts">Gerenciar contas</string>
-    <string name="header_manage_default_accounts">Contas padrão</string>
+    <string name="header_manage_default_accounts">Conta padrão</string>
     <string name="header_general_sync_settings">Configurações gerais de sincronização</string>
     <string name="sync_enabled">A sincronização está ATIVADA</string>
     <string name="sync_disabled">A sincronização está DESATIVADA</string>
