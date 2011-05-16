@@ -1148,5 +1148,5 @@
     <string name="text_pastelist">Área de transferência (%d)</string>
     <string name="select">Selecione</string>
     <string name="permlab_accessUsb">Acessar dispositivos USB</string>
-    <string name="permdesc_accessUsb">Permitir a aplicação a acessar dispositivos USB.</string>
+    <string name="permdesc_accessUsb">Permitir a aplicação acessar dispositivos USB.</string>
 </resources>
