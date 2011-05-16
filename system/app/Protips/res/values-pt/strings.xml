@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="widget_name">Dicas da tela inicial</string>
+    <string name="pager_footer">%1$d de %2$d</string>
+    <string name="tts_pause">.</string>
+</resources>

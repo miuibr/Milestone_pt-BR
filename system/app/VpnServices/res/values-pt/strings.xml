@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">Serviços de VPN</string>
+    <string name="vpn_notification_title_connected">VPN de %s conectada</string>
+    <string name="vpn_notification_title_disconnected">VPN de %s desconectada</string>
+    <string name="vpn_notification_hint_disconnected">Toque para reconectar-se a uma VPN.</string>
+</resources>
