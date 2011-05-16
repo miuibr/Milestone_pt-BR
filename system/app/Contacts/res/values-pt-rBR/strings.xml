@@ -405,7 +405,7 @@
     <string name="callrecordview_item_op_time_short_outgoing">Chamados\u0020</string>
     <string name="callrecordview_item_op_time_only_seconds">%d seg</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
-    <string name="callrecordview_item_op_time_minutes_seconds">%d:%d min</string>
+    <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d:%d min</string>
     <string name="group_delete_confirmation">O grupo selecionado será apagado</string>
     <string name="no_sms_availabe_contact_in_group">Não é possível enviar mensagens para nenhum contato deste grupo</string>
     <string name="set_ringtone_for_group_members_success">Toque definido com sucesso</string>
@@ -422,15 +422,15 @@
     <string name="simCard">Cartão SIM</string>
     <string name="export_to_sim">Exportar para o cartão SIM</string>
     <string name="simExportLoadingAdn">Lendo o cartão SIM... \nEsta operação pode demorar alguns minutos. Por favor aguarde.</string>
-    <string name="simExportCancelled">A cópia foi cancelada\n%s contatos em %s não foram copiados para o cartão SIM.</string>
-    <string name="simExportNoSpace">O cartão SIM está cheio, não há espaço suficiente para armazenar %s contatos. Só podem ser armazenados %s</string>
+    <string name="simExportCancelled" formatted="false">A cópia foi cancelada\n%s contatos em %s não foram copiados para o cartão SIM.</string>
+    <string name="simExportNoSpace" formatted="false">O cartão SIM está cheio, não há espaço suficiente para armazenar %s contatos. Só podem ser armazenados %s</string>
     <string name="nickname_picker_name_column">Nome do contato</string>
     <string name="nickname_picker_nickname_column">Nome</string>
     <string name="toast_for_saving_nickname">As alterações foram salvas!</string>
     <string name="toast_for_failed_saving_nickname">Falha ao salvar as alterações!</string>
     <string name="contact_card_photo_edit">Editar</string>
     <string name="btn_selected">Selecionar</string>
-    <string name="extendSelection">Selecionar (%s) a (%s)</string>
+    <string name="extendSelection" formatted="false">Selecionar (%s) a (%s)</string>
     <string name="menuSelectAll">Selecionar todos os números</string>
     <string name="btn_selected_with_count">Selecionar (%d)</string>
     <string name="group_count">(%d)</string>
@@ -480,8 +480,8 @@
     <string name="use_lunar_birthday">Use calendário Lunar</string>
     <string name="birthday_picker_reminder">Isso irá lembrá-lo com três dias de antecedência do evento</string>
     <string name="birthday_remind">Lembrete de Aniversário</string>
-    <string name="birthday_remind_notify">Hoje é %s %s não se esqueça de dar os parabéns ou dar um presente</string>
-    <string name="birthday_remind_3days_notify">3 dias para %s %s não se esqueça de comprar um cartão ou um presente</string>
+    <string name="birthday_remind_notify" formatted="false">Hoje é %s %s não se esqueça de dar os parabéns ou dar um presente</string>
+    <string name="birthday_remind_3days_notify" formatted="false">3 dias para %s %s não se esqueça de comprar um cartão ou um presente</string>
     <string name="dialer_empty_text_no_call_log">Não há registros de chamada</string>
     <string name="dialer_empty_text_no_search_result">Nenhuma correspondência</string>
     <string name="menu_remove_duplicate">Apagar contatos duplicados</string>
