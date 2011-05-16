@@ -43,3 +43,8 @@ Ele copiará todos os apks que possuem tradução (os que temos no repositório)
 Preste atenção com a versão da rom no seu telefone. Não é possível recompilar os apks caso o seu telefone não esteja com a mesma versão
 do nosso repositório.
 
+### Recompilar ###
+
+Para **recompilar** todos os apks, executar o script *recompilar_apks.py*. Automaticamente todos os apks serão compilados e colocados na 
+pasta *build*.
+
