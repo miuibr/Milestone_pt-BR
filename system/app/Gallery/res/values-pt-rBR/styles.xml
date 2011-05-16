@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="InformationItemTitleStyle">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_width">79.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="InformationItemContentStyle">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">5.0dip</item>
+    </style>
+</resources>

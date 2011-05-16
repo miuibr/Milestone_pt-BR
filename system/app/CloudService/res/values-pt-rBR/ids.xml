@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <item type="id" name="login_view">false</item>
+    <item type="id" name="login_username_edit_text">false</item>
+    <item type="id" name="login_password_edit_text">false</item>
+    <item type="id" name="login">false</item>
+    <item type="id" name="login_progressbar">false</item>
+    <item type="id" name="login_button">false</item>
+    <item type="id" name="login_status_text">false</item>
+</resources>
