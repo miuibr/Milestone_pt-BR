@@ -263,7 +263,7 @@
     <string name="equalizer_delete">Deletar</string>
     <string name="equalizer_delete_success">Perfil de equalizador removido com sucesso</string>
     <string name="equalizer_save_success">Perfil de equalizador salvo</string>
-    <string name="create_equalzier_create_text_prompt">Equalizador nome do efeito</string>
+    <string name="create_equalizer_create_text_prompt">Equalizador nome do efeito</string>
     <string name="new_equalizer_name_template">Novo EQ perfil %d</string>
     <string name="permlab_downloadCompletedIntent">Enviar notificações de download.</string>
     <string name="permdesc_downloadCompletedIntent">Permite que o aplicativo envie notificações sobre downloads concluídos. Aplicativos maliciosas podem usar isso para confundir os outros aplicativos para baixar arquivos.</string>
@@ -302,8 +302,8 @@
     <string name="no_enough_sdcard_space">SD espaço restante: %d, talvez você não tenha espaço suficiente para continuar?</string>
     <string name="download_info_count_paused_tasks_wifi_connected">Conexão perdida, tarefa de download %s parou</string>
     <string name="download_info_start_deleted_tasks">Preparando-se para excluir a tarefa</string>
-    <string name="url_default_lyric">http://120.195.13.122/q?title=%s&amp;artist=%s</string>
-    <string name="url_album">http://xshare.api.xiaomi.com/xShare?do=mp3.cover.search&amp;album=%s&amp;artist=%s</string>
+    <string name="url_default_lyric" formatted="false">http://120.195.13.122/q?title=%s&amp;artist=%s</string>
+    <string name="url_album" formatted="false">http://xshare.api.xiaomi.com/xShare?do=mp3.cover.search&amp;album=%s&amp;artist=%s</string>
     <string name="url_feedback">http://sj.xiaomi.com/miniphp/ajax.php</string>
     <string name="url_update">http://xshare.api.xiaomi.com/player</string>
     <string name="url_debug_update">http://intranet.xiaomi.com/player</string>
