@@ -37,7 +37,7 @@ copie todos os três para o diretório */usr/local/bin* com o seguinte comando:
 Para **descompilar** todos os apks que possuem tradução é só executar o script *copiar_apks.py* com o telefone conectado em modo debug
 (para que adb poder se conectar a ele) usando o seguinte comando:
 
-`python copiar_apks.py`
+`python system/apps/copiar_apks.py`
 
 Ele copiará todos os apks que possuem tradução (os que temos no repositório) do seu telefone, extrairá e juntará o pack pt-br com eles.
 
