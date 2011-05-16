@@ -8,11 +8,12 @@
         <item>SMS e MMS</item>
     </string-array>
     <string-array name="system_data_label">
-        <item>Config. wi-fi</item>
-        <item>Aparência</item>
-        <item>Contatos</item>
-        <item>Histórico de chamadas</item>
-        <item>SMS</item>
+				<item>Contatos</item>
+        <item>Log de ligações</item>
+        <item>Mensagens</item>
+        <item>Configurações de wi-fi</item>
+        <item>Configurações do desktop</item>
+        <item>Notas</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>(Dados)</item>
