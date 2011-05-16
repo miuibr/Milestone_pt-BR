@@ -40,4 +40,6 @@ Para **descompilar** todos os apks que possuem tradução é só executar o scri
 `python system/apps/copiar_apks.py`
 
 Ele copiará todos os apks que possuem tradução (os que temos no repositório) do seu telefone, extrairá e juntará o pack pt-br com eles.
+Preste atenção com a versão da rom no seu telefone. Não é possível recompilar os apks caso o seu telefone não esteja com a mesma versão
+do nosso repositório.
 
