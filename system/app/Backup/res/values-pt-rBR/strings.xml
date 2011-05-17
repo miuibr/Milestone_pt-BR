@@ -29,7 +29,7 @@
     <string name="restore_progress">Restaurando ...</string>
     <string name="restore_contacts_hit">(Nota: você precisará restaurar manualmente os contatos)</string>
     <string name="restore_telephony_hit">(Nota: O processo de restauração irá reiniciar o aplicativo de telefonia)</string>
-    <string name="restore_launcher_layout_hit">(Obs.: O processo irá restaurar backup do tema da tela inicial)</string>
+    <string name="restore_launcher_layout_hit">(Obs.: O processo irá restaurar o backup do tema da tela inicial)</string>
     <string name="cloud_app_name">Backup Online</string>
     <string name="cloud_home_title">Backup Online</string>
     <string name="prompt_reading">Lendo...</string>
@@ -98,9 +98,9 @@
     <string name="preference_findlost_contact">Recuperar contatos</string>
     <string name="progress_restore_hint">Restaurando dados...</string>
     <string name="cancel_restore">Cancelar restauração</string>
-    <string name="local_backup_hint1">Backup de contatos, mensagens de texto, configurações e dados do programa do sistema</string>
-    <string name="local_backup_hint2">Você também pode salvar a APK de aplicações e seus dados (como o arquivo de jogos)</string>
-    <string name="local_backup_hint3">Você também pode optar por recuperar registros do passado</string>
+    <string name="local_backup_hint1">Backup de contatos, mensagens de texto, configurações e dados do sistema</string>
+    <string name="local_backup_hint2">Você também pode salvar o APK e os dados das aplicações (como arquivos de jogos)</string>
+    <string name="local_backup_hint3">Você também pode optar por recuperar registros anteriores</string>
     <string name="local_restore_select_prompt">Selecione o backup para restaurar</string>
     <string name="local_select_sysdata">Sistema</string>
     <string name="local_select_userapp">Aplicativos</string>
