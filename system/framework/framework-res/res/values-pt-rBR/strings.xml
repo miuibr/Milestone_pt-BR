@@ -546,6 +546,11 @@
     <string name="permdesc_changeWifiState">Permite que um aplicativo se conecte e desconecte dos pontos de acesso Wi-Fi e faça alterações nas redes Wi-Fi configuradas.</string>
     <string name="permlab_changeWifiMulticastState">permitir recebimento de multicast Wi-Fi</string>
     <string name="permdesc_changeWifiMulticastState">Permite que um aplicativo receba pacotes não endereçados diretamente para o seu aparelho. Isso pode ser útil ao detectar os serviços oferecidos nas proximidades. Ele consome mais energia do que o modo não-multicast.</string>
+    <string name="permlab_accessWimaxState">visualizar estado da rede WiMAX</string>
+    <string name="permdesc_accessWimaxState">Permite visualizar as informações sobre o estado de WiMAX.</string>
+    <string name="permlab_changeWimaxState">Alterar estado da WiMAX</string>
+    <string name="permdesc_changeWimaxState">Permite que um aplicativo conectar e desconectar da rede WiMAX.</string>
+
     <string name="permlab_bluetoothAdmin">administração de Bluetooth</string>
     <string name="permdesc_bluetoothAdmin">Permite que um aplicativo configure o telefone Bluetooth local, descubra e pareie com dispositivos remotos.</string>
     <string name="permlab_bluetooth">criar conexões Bluetooth</string>
@@ -927,7 +932,7 @@
     <string name="callDetailsDurationFormat">%1$s minutos %2$s segundos</string>
     <string name="firewall_setting">Modo DND</string>
     <string name="date_day">Data</string>
-    <string name="lunar_calendar" />
+	<string name="lunar_calendar" />
     <string name="lunar_zheng" />
     <string name="lunar_leap" />
     <string name="lunar_ling" />
@@ -949,7 +954,7 @@
     <string name="lunar_chu" />
     <string name="lunar_nian" />
     <string name="lunar_yue" />
-    <string name="lunar_year" />
+   <string name="lunar_year" />
     <string name="sms_traffic">Limite de tráfego de SMS alcançou %s</string>
     <string name="sms_traffic_exceeded">O limite de tráfego de SMS foi excedido em %s este mês</string>
     <string name="mobile_traffic">Limite de tráfego de internet móvel alcançou %s</string>
@@ -1149,7 +1154,10 @@
     <string name="country_name_tm">Turquemenistão</string>
     <string name="country_name_az">Azerbaijão</string>
     <string name="country_name_ge">Geórgia</string>
-    <string name="text_pastelist">Área de transferência (%d)</string>
+    <string name="open_wifi_data_for_agps">Abrir automaticamente Wi-Fi e rede móvel AGPS, desligar após 60 segundos de inatividade</string>
+    <string name="open_wifi_for_agps">Abrir automaticamente Wi-Fi AGPS, desligar após 60 segundos de inatividade</string>
+    <string name="open_data_for_agps">Abrir automaticamente AGPS, desligar após 60 segundos de inatividade</string>
+    <string name="text_pastelist">Prancheta</string>
     <string name="select">Selecione</string>
     <string name="caller_info_name_delimiter">Ou</string>
 </resources>
