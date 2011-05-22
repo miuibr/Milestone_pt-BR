@@ -426,6 +426,7 @@
     <string name="simExportNoSpace" formatted="false">O cartão SIM está cheio, não há espaço suficiente para armazenar %s contatos. Só podem ser armazenados %s</string>
     <string name="nickname_picker_name_column">Nome do contato</string>
     <string name="nickname_picker_nickname_column">Nome</string>
+    <string name="not_applied">Não suportado</string>
     <string name="toast_for_saving_nickname">As alterações foram salvas!</string>
     <string name="toast_for_failed_saving_nickname">Falha ao salvar as alterações!</string>
     <string name="contact_card_photo_edit">Editar</string>
