@@ -1255,6 +1255,8 @@
     <string name="compatibility_mode_summery_off">Esta aplicação executa em modo padrão.</string>
     <string name="compatibility_mode_toggle_on">Ligar</string>
     <string name="compatibility_mode_toggle_off">Desligar</string>
+    <string name="auto_agps">Auto-posicionamento GPS</string>
+    <string name="auto_agps_sum">Posicionamento GPS, WiFi automático de abertura e de posicionamento assistido pela rede móvel, pode produzir uma pequena quantidade de tráfego de dados</string>
     <string name="gps_config_title">Configuração de GPS</string>
     <string name="gps_config_summary">Não é possível localizar o local, as configurações do GPS podem ser modificadas aqui.</string>
     <string name="gps_config_ntp_server">NTP Endereço do servidor:</string>
