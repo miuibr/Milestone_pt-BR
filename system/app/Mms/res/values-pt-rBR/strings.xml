@@ -367,7 +367,7 @@
     <string name="pref_title_new_message_popup">Informações janela pop-up</string>
     <string name="pref_summary_new_message_popup">Receber automaticamente uma nova janela pop-up exibe informações</string>
     <string name="pref_summary_new_message_popup_when_secure">Pop-up window is disabled when phone is password protected</string>
-    <string name="pref_title_wake_up_screen">Ligar e tela</string>
+    <string name="pref_title_wake_up_screen">Ligar a tela</string>
     <string name="pref_summary_wake_up_screen">Ligar a tela quando você receber novas informações</string>
     <string name="pref_title_delivery_reports">Relatórios de entrega</string>
     <string name="pref_summary_delivery_reports">Habilitar relatórios de entrega para mensagens enviadas</string>
